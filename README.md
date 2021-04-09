@@ -1,7 +1,8 @@
 # SapBERT: Self-alignment pretraining for BERT
 
 
-This repo holds code for reproducing the SapBERT model presented in our NAACL 2021 paper: *Self-Alignment Pretraining for Biomedical Entity Representations* [\[arxiv\]](https://arxiv.org/abs/2010.11784) [\[huggingface model\]](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext).
+This repo holds code for reproducing the SapBERT model presented in our NAACL 2021 paper: *Self-Alignment Pretraining for Biomedical Entity Representations* [\[arxiv\]](https://arxiv.org/abs/2010.11784).
+
 
 ## Citation
 ```bibtex
@@ -12,6 +13,17 @@ This repo holds code for reproducing the SapBERT model presented in our NAACL 20
 	year={2020}
 }
 ```
+
+## Huggingface Models
+
+### [\[SapBERT\]](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext)
+Standard SapBERT as described in (Liu et al. 2020). Trained with UMLS 2020AA (English only), using `microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext` as the base model. Use `[CLS]` as the representation of the input.
+
+### [\[SapBERT-XLMR\]](https://huggingface.co/cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR)
+SapBERT trained with UMLS 2020AB, using `xlm-roberta-base` as the base model. Use `[CLS]` as the representation of the input.
+
+### [\[SapBERT-mean-token)\]](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext-mean-token)
+Same as standard SapBERT but trained with mean-pooling instead of `[CLS]` representations.
 
 
 ## Environment
