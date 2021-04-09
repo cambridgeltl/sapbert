@@ -15,7 +15,7 @@ This repo holds code for reproducing the SapBERT model presented in our NAACL 20
 
 
 ## Environment
-The code is tested with python 3.8 and torch 1.7.0.
+The code is tested with python 3.8, torch 1.7.0 and huggingface transformers 4.4.2. View `requirements.txt` for more details.
 
 ## Train SapBERT
 
