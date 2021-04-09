@@ -22,8 +22,8 @@ Standard SapBERT as described in (Liu et al. 2020). Trained with UMLS 2020AA (En
 ### [\[SapBERT-XLMR\]](https://huggingface.co/cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR)
 SapBERT trained with UMLS 2020AB, using `xlm-roberta-base` as the base model. Use `[CLS]` as the representation of the input.
 
-### [\[SapBERT-mean-token)\]](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext-mean-token)
-Same as standard SapBERT but trained with mean-pooling instead of `[CLS]` representations.
+### [\[SapBERT-mean-token\]](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext-mean-token)
+Same as the standard SapBERT but trained with mean-pooling instead of `[CLS]` representations.
 
 
 ## Environment
