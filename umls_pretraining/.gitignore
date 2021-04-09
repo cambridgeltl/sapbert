@@ -1,0 +1,54 @@
+__pycache__
+.mypy_cache
+.vscode
+.ipynb_checkpoints
+notebook
+*.sqlite*
+*cache_dir/*
+*runs/*
+*outputs/*
+*wandb/*
+
+#*.tsv
+#*.csv
+#*.txt
+*.pt
+*.ckpt
+*.pkl
+*.pyc
+*.npy
+
+# dataset
+datasets/ncbi-disease/
+datasets/bc5cdr-disease/
+datasets/bc5cdr-chemical/
+datasets/dictionary
+datasets/tac2017adr
+datasets/raw
+datasets/meddra
+
+processed_train
+processed_dev
+processed_traindev
+processed_test
+
+*.tar.gz
+
+# result
+error_analysis.json
+cache/
+output
+tmp
+
+# tensorboard
+runs/
+
+# pypi 
+dist
+build
+biosyn.egg-info
+
+#semantic ui
+semantic
+
+data/snomed
