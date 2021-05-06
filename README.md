@@ -40,6 +40,7 @@ Please view `evaluation/README.md` for details.
 	journal={arXiv preprint arXiv:2010.11784},
 	year={2020}
 }
+```
 
 ## Acknowledgement
 Parts of the code are modified from [BioSyn](https://github.com/dmis-lab/BioSyn). We appreciate the authors for making BioSyn open-sourced.
