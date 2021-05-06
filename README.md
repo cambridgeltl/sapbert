@@ -1,7 +1,7 @@
 # SapBERT: Self-alignment pretraining for BERT
 
 
-This repo holds code for reproducing the SapBERT model presented in our NAACL 2021 paper: *Self-Alignment Pretraining for Biomedical Entity Representations* [\[arxiv\]](https://arxiv.org/abs/2010.11784).
+This repo holds code for the SapBERT model presented in our NAACL 2021 paper: *Self-Alignment Pretraining for Biomedical Entity Representations* [\[arxiv\]](https://arxiv.org/abs/2010.11784); and our ACL paper: *Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking* (arxiv coming soon).
 
 
 ## Citation
