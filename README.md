@@ -1,15 +1,17 @@
 # SapBERT: Self-alignment pretraining for BERT
 
 
-This repo holds code for the SapBERT model presented in our NAACL 2021 paper: *Self-Alignment Pretraining for Biomedical Entity Representations* [\[arxiv\]](https://arxiv.org/abs/2010.11784); and our ACL 2021 paper: *Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking* (arxiv coming soon).
+This repo holds code for the SapBERT model presented in our NAACL 2021 paper: *Self-Alignment Pretraining for Biomedical Entity Representations* [\[arxiv\]](https://arxiv.org/abs/2010.11784); and our ACL 2021 paper: *Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking* [\[PDF\]](http://fangyuliu.me/media/pdfs/xlbel_acl2021_preprint.pdf).
+
+![front-page-graph](/sapbert_front_graphs_v6.pdf?raw=true)
 
 ## Huggingface Models
 
 ### [\[SapBERT\]](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext)
-Standard SapBERT as described in [\[Liu et al., NAACL 2021\]](https://arxiv.org/abs/2010.11784). Trained with UMLS 2020AA (English only), using `microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext` as the base model. Use `[CLS]` as the representation of the input.
+Standard SapBERT as described in [\[Liu et al., NAACL 2021\]](https://arxiv.org/abs/2010.11784). Trained with UMLS 2020AA (English only), using `microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext` as the base model. Use `[CLS]` (before pooler) as the representation of the input.
 
 ### [\[SapBERT-XLMR\]](https://huggingface.co/cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR)
-Cross-lingual SapBERT as described in \[Liu et al., ACL 2021\] (arxiv coming soon). Trained with UMLS 2020AB (all languages), using `xlm-roberta-base` as the base model. Use `[CLS]` as the representation of the input.
+Cross-lingual SapBERT as described in [\[Liu et al., ACL 2021\]](http://fangyuliu.me/media/pdfs/xlbel_acl2021_preprint.pdf). Trained with UMLS 2020AB (all languages), using `xlm-roberta-base` as the base model. Use `[CLS]` (before pooler) as the representation of the input.
 
 ### [\[SapBERT-mean-token\]](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext-mean-token)
 Same as the standard SapBERT but trained with mean-pooling instead of `[CLS]` representations.
