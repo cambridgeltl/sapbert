@@ -3,7 +3,7 @@
 
 This repo holds code for the SapBERT model presented in our NAACL 2021 paper: *Self-Alignment Pretraining for Biomedical Entity Representations* [\[arxiv\]](https://arxiv.org/abs/2010.11784); and our ACL 2021 paper: *Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking* [\[PDF\]](http://fangyuliu.me/media/pdfs/xlbel_acl2021_preprint.pdf).
 
-![front-page-graph](/sapbert_front_graphs_v6.pdf?raw=true)
+![front-page-graph](/sapbert_front_graphs_v6.png?raw=true)
 
 ## Huggingface Models
 
