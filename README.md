@@ -1,6 +1,6 @@
 # SapBERT: Self-alignment pretraining for BERT
 
-This repo holds code, data, and pretrained weights for (1) the SapBERT model presented in our NAACL 2021 paper: [*Self-Alignment Pretraining for Biomedical Entity Representations*](https://www.aclweb.org/anthology/2021.naacl-main.334.pdf); (2) the cross-lingual SapBERT and a cross-lingual biomedical entity linking benchmark (XL-BEL) proposed in our ACL 2021 paper: [*Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking*](http://fangyuliu.me/media/pdfs/xlbel_acl2021_preprint.pdf).
+This repo holds code, data, and pretrained weights for **(1)** the **SapBERT** model presented in our NAACL 2021 paper: [*Self-Alignment Pretraining for Biomedical Entity Representations*](https://www.aclweb.org/anthology/2021.naacl-main.334.pdf); **(2)** the **cross-lingual SapBERT** and a cross-lingual biomedical entity linking benchmark (**XL-BEL**) proposed in our ACL 2021 paper: [*Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking*](http://fangyuliu.me/media/pdfs/xlbel_acl2021_preprint.pdf).
 
 ![front-page-graph](/misc/sapbert_front_graphs_v6.png?raw=true)
 
