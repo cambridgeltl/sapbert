@@ -1,0 +1,1000 @@
+C2297357||streaked flycatcher
+C0327640||carcharhinidae
+C1193494||t. pauciflora
+C1487473||klarobelia
+C0884984||impatiens
+C0999234||common wood pigeon
+C1009282||hydrophilidae
+C0038215|C0681932||statistics
+C0949943||lycopodiaceae
+C1093917||eulimidae
+C0085758|C0019569||hirschsprung's disease
+C0162617|C0331575||setaria
+C1009114||barrow's goldeneye
+C1060653||nashville warbler
+C0999520||tana river mangabey
+C1194448|C1018912||radix peregra
+C2314506||aristida stricta
+C1865871||infantile hemangioma
+C1046393||oeneis chryxus
+C1060046||hypolimnas misippus
+C0324671||d. virginiana
+C1868576||paroxysmal tonic upgaze
+C1213613||ash-throated flycatcher
+C0035853||rosa
+C1486807||tsuga caroliniana
+C0035804||rodent
+C0327057||hylidae
+C1013339||unionidae
+C1012539||spikerush
+C1069552||platanthera praeclara
+C1273752||gerbillus
+C1018746||groenlandia
+C1190237||polygonum aviculare
+C1082275||muricidae
+C1007649||leadbeater's possum
+C1093198||nautilus
+C1066752||blackwood
+C0949809||amaranthaceae
+C1011056||aesculus pavia
+C0949975||sapindaceae
+C1031549||wall letuce
+C0041296||consumption
+C0949805||iridaceae
+C0266030|C0040457|C4280340||hyperdontia
+C1269537||mammalian brain
+C1003255||eurasian eagle-owl
+C1254144||firmicutes
+C1010075||theclinae
+C1093629||sideroxylon foetidissimum
+C2627430||african hobby
+C0039316||tarsus
+C1042309|C3453896||ceiba
+C0330498||brassica oleracea
+C0993562||eurasian lynx
+C0014065|C0014067||encephalocele
+C0162529||ischemic bowel
+C1198986||salix caprea
+C1005038||eucalyptus globulus
+C0028754||obesity
+C0996715||spinach
+C0026884||mute
+C1194171||pyramidellidae
+C1647246||columbellidae
+C1035031||dwarf spiders
+C1000971||tillandsia
+C0330318||alder
+C0752336||uncaria tomentosa
+C1884486||n. murudensis
+C1265504||bassariscus
+C0999574||cuvier's beaked whale
+C0326500||wallcreeper
+C0323288||noctuidae
+C1095820||gray whale
+C0562690||carnivora
+C0524757||balaenidae
+C1912440||dark branded bushbrown
+C1061416||agromyzidae
+C0999119||pituophis melanoleucus
+C1020259||terebridae
+C1034194||acanthodactylus
+C1016453||cory's
+C0016658||fractures
+C0326617||great reed warbler
+C0331319||centaurea
+C2303070||d. variabilis
+C1462857||red knot
+C0600167||apidae
+C0326666||sprague's pipit
+C1002075||pinus mugo
+C0326673||bohemian waxwing
+C0009426||shellshock
+C0325386||pelecaniformes
+C0599456||sphingidae
+C1935160||ferussaciidae
+C1018317||gleditsia
+C0042510||ventricular fibrillation
+C2819343||bates's nightjar
+C0996817||legume
+C0682480||piperaceae
+C1004271||boobies
+C0752166||bardet–biedl syndrome
+C0029408|C0157946||osteoarthritis
+C1014264||marsh tit
+C1081809||neopteran
+C0001480||atp
+C1671022||ancash tapaculo
+C0034504||met
+C2791391||limax cinereoniger
+C0002792||life-threatening allergy
+C0023343||hansen disease
+C0030736||peanut
+C0325615||crested guineafowl
+C0323288||noctuidae
+C1065737||wedge-billed woodcreeper
+C1664055||crambidae
+C0328433||atlantic cod
+C0969712||rosaceae
+C2285467||lecithoceridae
+C0325773||charadriiformes
+C1928679||coleophoridae
+C0326657||motacillidae
+C0022738||klippel-feil syndrome
+C0405580|C0001403||addison's disease
+C0002903||anesthesia
+C1019356||yellow-crowned night-heron
+C1675048||pygopus
+C2758681||parakysis
+C1221556||pyrenean desman
+C0029792||drug addiction
+C0153369|C0026640|C0496758|C0153368||malignant neoplasm of palate
+C1001372||nothofagus
+C1495569||flame-faced tanager
+C1935203||helicostyla
+C0808501||acer negundo
+C0325386||pelecaniformes
+C0522458||poplar
+C1175175||severe acute respiratory syndrome
+C0020224||polyhydramnios
+C1072200||n. lamii
+C0027923||neurospora crassa
+C0324855||bonobo
+C0596222||branchiopoda
+C0008677|C0149514|C0006277||bronchitis
+C0006801||camels
+C1192486||delias pasithoe pasithoe
+C0999736||ctenophora
+C0330240||aconitum
+C2286868||blue-cheeked bee-eater
+C0327838||ophichthidae
+C0038170||staphylococcus
+C0999383||rose-ringed parakeet
+C1014710||vriesea
+C0038420||streptomyces
+C0997687||microascaceae
+C1001139||bush chinquapins
+C1905082||manu parrotlet
+C0012634||disease
+C1018912|C1194448||radix peregra
+C2310733||vinous-breasted starling
+C1232279||harris's hawk
+C1491420||calceolaria dilatata
+C1647135||roseate tern
+C1084217||selaginella lepidophylla
+C1193214||ikonnikov's bat
+C2297360||attila
+C0949968||polypodiaceae
+C1026951||philautus
+C1047211||cyanobacteria
+C0325127||grey seal
+C2285467||lecithoceridae
+C0325019||black bear
+C0330572||excoecaria
+C0010055||bypass surgery
+C0325716||whooping crane
+C0524885||rubiaceae
+C1015391||aeshnidae
+C0949816||myrtaceae
+C1000976||andropogon
+C1081058||cambaridae
+C1017009||neritids
+C0023570||l-dopa
+C1046444||grass snake
+C0950025||cyperaceae
+C1200930||heuglin's gull
+C0325393||american white pelican
+C1005674||calyptorhynchinae
+C0524493||ailuropoda
+C1002708||blechnaceae
+C0682477||arecaceae
+C1046214||candidula
+C0524885||rubiaceae
+C1498594||bengal slow loris
+C1010057||satyrinae
+C0329766||cottidae
+C1482334||cosmopterigidae
+C1484849||white wild onion
+C2267891||tussac
+C2783925||thaumarchaeota
+C1027629||cerithiidae
+C0996618||tsuga heterophylla
+C1136268||goniothalamus
+C1928682||blastobasidae
+C0178525||gbl
+C0524874||malvaceae
+C0326489||carolina chickadee
+C1624556||banded woodpecker
+C0325277||oryx
+C1070525||ilex cassine
+C0038969||stitched
+C0949816||myrtaceae
+C0325224||deer
+C2657668||yllenus
+C1899692||pieris virginiensis
+C1942706|C1000984||deschampsia
+C0999629||leporidae
+C1037178||eared grebe
+C0330555||crown-of-thorns
+C1027355||chinkara
+C1189398||allenanthus hondurensis
+C1012501||kukri snake
+C0995149||achillea
+C1029809||quercus palustris
+C0323288||noctuidae
+C0003125||anorexia
+C0027051||myocardial infarction
+C0011315|C0011311||dengue fever
+C0998962||southern bluefin
+C0920292||red trillium
+C1491605||euneomys
+C1041985||yellow-bellied marmot
+C0041296||tuberculosis
+C0035500||rhodospirillaceae
+C0004042||aspergillus oryzae
+C1123019||sheep
+C2763705||baoule's mouse
+C0002736||als
+C1195476||capped langur
+C0884999||penstemon
+C0326959||american goldfinch
+C1008238||cordyline fruticosa
+C1006832||sphaerocarpos
+C1686930||euxesta
+C0425809||blocked milk duct
+C1003247||tubenose
+C0002395||alzheimer's disease
+C1035068||cisticolidae
+C1086477||brewer's blackbird
+C0996523||polytrichaceae
+C3002939||immidae
+C0998434||coccinellidae
+C1479969||carcharhinus sorrah
+C1027690||oregon spotted frog
+C1631715||panaeolus olivaceus
+C1002434||pine marten
+C2757841||choreutidae
+C0153690||metastatic bone disease
+C1023719||tettigoniidae
+C0949900||apocynaceae
+C1943875||slaty-backed flycatcher
+C0320028||beauveria bassiana
+C1010642||harvestmen
+C0327903||anchovies
+C1011370||megalyridae
+C0325371||procellariidae
+C2656520||g. coronatum
+C2632857||blasius's horseshoe bat
+C0325811||american woodcock
+C0275191||diablo locoweed
+C0330194||thuja plicata
+C2288709||godlewski's bunting
+C0018288||crickets
+C1220438||gray kingbird
+C2613586||iriomote kitten
+C0325883||arctic tern
+C1008366||arthoniaceae
+C1000951||rushes
+C1043626||andromeda polifolia
+C1903228||caspian tern
+C0012403||dimethyl sulfoxide
+C0038170||staphylococcus
+C1254302||tarantula
+C1007382||epidendrum
+C2285467||lecithoceridae
+C1008399||umbravirus
+C1009217||hepialidae
+C0524751||common minke whale
+C1671021||paramo tapaculo
+C1482334||cosmopterigidae
+C0327264||anguis
+C0330637||boxwood
+C1082351||meripilus giganteus
+C0030567||parkinson's disease
+C0998267||portunidae
+C0041221||trypanosoma cruzi
+C1007671||biscuitroot
+C1627615||argyrodiaptomus
+C1021003||milicia excelsa
+C0999577||humpback whale
+C1000954||cymbidiums
+C0999109||gekkota
+C0021359||fertility problems
+C1078710||sphingopyxis
+C0998453||pieridae
+C1664055||crambidae
+C1667337||gulf coast kangaroo rat
+C1035545||geometridae
+C1003249||wedge-tailed shearwater
+C1664055||crambidae
+C0030567||parkinson's disease
+C0323288||noctuidae
+C0330191||p. radiata
+C3263723||trauma
+C0224511||suture
+C0032579||polyporaceae
+C1673218||nolidae
+C1001173||pomegranate
+C0949852||camellia sinensis
+C2810373||azure-naped jay
+C1070973||dothideomycetes
+C0949899||annonaceae
+C0999625||kamoshika
+C0323288||noctuidae
+C1265533||sus
+C0156147||crohn's disease
+C0947565||bombus terrestris
+C0326586||thrush
+C1080850||casuarina
+C0026802||muridae
+C2810670||ficimia
+C0600464||oyster
+C1008635||grass skipper butterflies
+C0036025||saccharomyces cerevisiae
+C1212935||baetis
+C0027960||pigmented nevi
+C0599456||sphingidae
+C0007012||co2
+C1081398||polemoniaceae
+C1496996||abo bat
+C1187803||dolichopodidae
+C1094924||coupatezia laevis
+C0079105||catfish (channel)
+CL508424||addiction
+C0325235||bovinae
+C1688859||little grebe
+C0599456||hawk moth
+C0001692||aedes
+C1046879||yucca brevifolia
+C0323293||nymphalidae
+C1494874||caldisphaeraceae
+C1014681||canistrum
+C1905793||zygaena carniolica
+C1079542||garry oak
+C0325879||pacific gull
+C0030528|C0343376|C0343377|C0343375||paratyphoid fever
+C3203533||trauma
+C0325979||jandaya parakeet
+C0087114||wheat
+C1001566||lycaenids or blues
+C0330654||prunus
+C1468799||soprano pipistrelle
+C0302583||fe
+C1922382||hymenosomatidae
+C0325339||rhea (bird)
+C0019681||histrionic
+C1010404||araucaria araucana
+C1081288||smilodon
+C0524741|C1579826||bryde's whale
+C0326398||magpies
+C0329163||roncador
+C1020810||manettia
+C1058601||west african shaggy rat
+C1085629||tanaidacea
+C1029096||siphonostomatoida
+C1492328||little free-tailed bat
+C0322520||true weevils
+C0325034||mustelidae
+C1229301||aphthona
+C0997210||bromeliad
+C1021544||lesser noctule
+C0949816||myrtaceae
+C1028290||coenagrionidae
+C1067845||erhard's wall lizard
+C1018357||haemodoraceae
+C0326630|C1017002||common chiffchaff
+C2285467||lecithoceridae
+C1023636||alaskan hare
+C1054284||black-crowned tityra
+C0327057||hylidae
+C0325250||banteng
+C0331631||veratrum album
+C1739095||buffalo
+C1677660||green sandpiper
+C1232520||acacia mangium
+C0330213||annona cherimola
+C2769108||rafflesia arnoldii
+C1498269||cooper's hawk
+C1025582||fibrobacteres
+C1045399||calendula arvensis
+C1510586|C0856975||autism spectrum
+C0600537||passeriformes
+C0997597||boletaceae
+C2663352||intermediate egret
+C0997131||camellia japonica
+C0997456||diaporthales
+C1058499||common redstart
+C0808502||acer saccharinum
+C1910436||tyrannosaurus
+C0949816||myrtaceae
+C0303403||indium-111
+C1018452||agrius convolvuli
+C1000599||potamogeton
+C0949816||myrtaceae
+C1010652||nemastomatidae
+C1081902||phytoseiidae
+C1034154||red-necked grebe
+C0036341||schizophrenia
+C0997213||marantaceae
+C1664055||crambidae
+C1032537||calectasia
+C0946717||edible oyster
+C0242644||brown-séquard syndrome
+C1000865||chinese softshell turtle
+C0021851||colon
+C1054423||sphaeroceridae
+C1202644||epimeriids
+C1673246||monodactylidae
+C0334492|C2211494|C1261473||muscular cancer
+C1004147||gelechiidae
+C0949941||juglandaceae
+C1462560||menetries's warbler
+C1001094||mallotus
+C0324855||bonobo
+C1664055||crambidae
+C0025039||meclizine
+C0022667||renal papillary necrosis
+C0326834||red avadavat
+C0027960||mole
+C1497946||asian brown tortoise
+C1000618||bald cypress
+C1647246||columbellidae
+C1012784||european pied flycatcher
+C0325777||african jacana
+C2663356||australian white ibis
+C1061771||sabine's gull
+C1035079||american coot
+C1039525||pussypaws
+C1001566||lycaenid
+C0524903||lavender
+C1212705||western bluebird
+C1285162|C0524851||neurodegenerative diseases
+C0323293||nymphalidae
+C1664055||crambidae
+C1464840||clematis lasiantha
+C1026650||quercus wislizeni
+C1202706||caladenia carnea
+C0085316||apicomplexa
+C1444164||costa's hummingbird
+C1091698||n. villosa
+C1008146||monarda didyma
+C1002379||sclerotiniaceae
+C1003247||procellariiformes
+C0043457||zebra fish
+C0086372||senecio vulgaris
+C0030567||parkinson's disease
+C1005345||sea otter
+C1187827|C2271363||cedrus libani
+C1081902||phytoseiidae
+C1205030||citrine wagtail
+C1140671||oryza sativa
+C0037379||snakebite
+C0036285|C0343487||scarlet fever
+C0326934||eurasian siskin
+C0996796||sedum
+C1203978||boletinellaceae
+C0330304||quercus rubra
+C0325019||black bear
+C0327933||broad whitefish
+C1485448||forest kingfisher
+C1330625||1,1,1,2-tetrafluoroethane
+C0033126||primaquine
+C0003486|C0265012|C0741160|C1305122|C0265010||aortic aneurysm
+C1643843||fabiana
+C0001175||hiv/aids
+C0325686||tragopan
+C1490012||lachesillidae
+C0017890||glycine
+C0994382||bombycidae
+C0949805||iridaceae
+C1020474||rosa majalis
+C0324756||molossidae
+C1015478||mutillidae
+C1000971||tillandsia
+C0949900||apocynaceae
+C0995181||willow
+C1026981||marsh warbler
+C0998416||scarabaeidae
+C1006598||great shearwater
+C1561643|C0022661|C0748318||chronic kidney disease
+C1491019||asplundia
+C0322910||anopheles culicifacies
+C0024790|C0086774|C0019050||paroxysmal nocturnal hemoglobinuria
+C0971876||meliaceae
+C1016880||common cow-wheat
+C1010202||congo tetra
+C0035920||rubella
+C0323288||noctuidae
+C0011849||diabetes
+C1060837||ornate shrew
+C0408212||arthroscopic lavage
+C1135185||catnip
+C1020475||cloudberries
+C0391965||pseudallescheria boydii
+C0029882||otitis media
+C1003243||nariño tapaculo
+C0330972||juglans nigra
+C0031873||pica
+C0949681||dinosaur
+C1044271||vitis riparia
+C0323293||nymphalidae
+C0007610||nucleus
+C0002395||alzheimer’s disease
+C0949997||caryophyllaceae
+C0682480||piperaceae
+C0034372||quadriplegic
+C0325638||california quail
+C0996640||cucumber tree
+C0969754||ficus
+C0162740||arabidopsis
+C0325773||charadriiformes
+C1224354||homininae
+C0949965||plumbaginaceae
+C0998066||haliotis rufescens
+C0998357||aranea
+C1667534||flueggea
+C0999211||knob-billed duck
+C0325576||osprey
+C1928691||aceros
+C1927424||common toothwort
+C1015396||dytiscidae
+C0996817||faboideae
+C0037303||cranial
+C1006112||grayling
+C0156147||crohn's disease
+C1091591||hibbertia scandens
+C0327616||dogfish shark
+C0008111||chimpanzee
+C1944178||caledoniscincus
+C1194624||bar-tailed godwit
+C1048006||hyles lineata
+C2987620||inoculation
+C0002395||alzheimer's disease
+C0206116||microglial cells
+C0025007||measles
+C0950149||nymphaea
+C1479730||semipalmated sandpiper
+C1003378||snapper
+C1664055||crambidae
+C1008946||dipterocarpaceae
+C1461466||sauropus
+C0949832||acanthaceae
+C1002865||sarcosomataceae
+C0325470||glossy ibis
+C1076578||pentatomidae
+C0446243||euphorbiaceae
+C0025611||world's most dangerous drug
+C0997245||liliales
+C0077273||tripterygium wilfordii
+C1035068||cisticolidae
+C1093917||eulimidae
+C0998784||scyliorhinidae
+C0684063||eukaryotic
+C0026926||mycobacterium tuberculosis
+C1060734||lestidae
+C1007824||fraxinus excelsior
+C0996691||sheoak
+C0043697||1,1,1-trichloroethane
+C0002607||ammonia
+C1009170||pimpinella saxifraga
+C1056908||pteronotus macleayii
+C2645928||spotted honeyguide
+C0325736||rails
+C2793800||little stint
+C1483745||orégano brujo
+C1033802||lamiinae
+C0029408|C0157946||osteoarthritis
+C1019234||polygyridae
+C1638999||nesomyidae
+C0752235|C0024198||lyme disease
+C1085232||dotidae
+C0322520||curculionidae
+C1061035||ring-billed gull
+C1939315||coryphagrion grandis
+C0562690||carnivora
+C1638597||great crested grebe
+C0242855||pulmonary atresia
+C0949956||orchidaceae
+C1003247||procellariiformes
+C1916658||large-headed flatbill
+C2629448||sierran elaenia
+C1192722||lepidium draba
+C0999629||leporidae
+C0009055||clostridium botulinum
+C0323288||noctuidae
+C1027539||cypraeidae
+C2309134||socotra sparrow
+C1941706||molendoa
+C0999055||caeciliidae
+C0997157||bromus
+C0329239||pomacentridae
+C0325031||red panda
+C0326029||cuculiformes
+C0752235|C0024198||lyme disease
+C2653984||axymyiidae
+C0330839||lotus
+C0000879||acanthamoeba polyphaga
+C0331276||verbenaceae
+C0996613||scots pine
+C0041234|C0007932||chagas disease
+C1664055||crambidae
+C0998106||ragged sea hare
+C0323780||northern tree-dwelling funnel-web
+C0024117||emphysema
+C3898830||nymphomaniacs
+C0260220||dasyproctidae
+C0524539||roach
+C0325503||eurasian wigeon
+C0024713|C0005586|C0005587|C0236780||manic-depressive
+C0697066||cornus florida
+C1029678||olearia
+C1002758||brachypodium pinnatum
+C0874159||maté
+C0001175||aids
+C0326871||western meadowlark
+C0325486||anseriformes
+C0001699||klebsiella pneumoniae
+C1639296||leptotes pirithous
+C0999468||grey-headed flying fox
+C0328542||pacific saury
+C0162610||caenorhabditis elegans
+C0008802||cinnamon
+C0018210||grass
+C0034693||brown rat
+C0999260||brahminy kite
+C1466205||phyllanthaceae
+C2664088|C1087632||white fir
+C1093040||orycteropus
+C0326381||dicruridae
+C1072197||n. hirsuta
+C0040374||tolbutamide
+C1472137||straight-tusked elephant
+C0027401||narcissism
+C1469358||black-faced waxbill
+C0326375||tree swallow
+C0326872||bobolink
+C1473118||carposinidae
+C0003732||archaea
+C1204188||acacia acuminata
+C1028582||chromodorididae
+C0026946||fungal infection
+C0600231||membracoidea
+C0019348||herpes simplex
+C1011389||white-crowned sparrow
+C0325879||pacific gull
+C1004147||gelechiidae
+C0232180||cardiac shunt
+C1228874||euconulidae
+C1026991||clamorous reed warbler
+C1071518||tetrastigma
+C0331312||aster
+C1001003||clivia miniata
+C1001030||clethraceae
+C0325500||hottentot teal
+C1899499||yellow-chevroned parakeet
+C0936241||pteropus
+C0330656||almond
+C0325233||pronghorn
+C1664055||crambidae
+C1042790||bunopus
+C1038263||griselinia littoralis
+C0003146||antilopinae
+C1466279||dendrobium
+C0331516||paspalum
+C1500596||european bee-eater
+C1664055||crambidae
+C1045101||rhodomyrtus tomentosa
+C2634346||daphnis nerii
+C0254121||merlin
+C0023270||leishmania
+C0598342||brittle stars
+C1003835||eurasian oystercatcher
+C0446271||adiantum capillus-veneris
+C1212002||b. nutans
+C1213302||zimmer's woodcreeper
+C1028290||coenagrionidae
+C1023806||vagrant shrew
+C0936076||puffer fishes
+C0331014||mistletoe
+C0026857||musculoskeletal disorder
+C1095821||narwhal
+C0326926||northern cardinal
+C0016064||monostotic
+C1187269||buprestidae
+C1194624||bar-tailed godwit
+C2288680||lemon-spectacled tanager
+C0027900||neurophysins
+C0999149||dromaius
+C1019493||ramalinaceae
+C1033022||abies firma
+C0998466||snout moth
+C1038820||alcolapia grahami
+C1050018||emperor goose
+C0032064||plague (disease)
+C2621204||ruby-topaz hummingbird
+C1673559||yellow-tailed black cockatoo
+C0949864||euphorbia
+C1084834||balamuthia mandrillaris
+C0562690||carnivora
+C0677607||hashimoto's thyroiditis
+C1050403||gomphidae
+C1936001||indiana bat
+C0222661||cortical bone
+C1675186||homopus
+C1000671||sedge
+C1056054||dalmatian barbelgudgeon
+C0323351||honey bees
+C0996604||black spruce
+C1070973||dothideomycetes
+C0330083||molidae
+C0325096||oncilla
+C0015957||fetishistic
+C1910433||theropod
+C0697049||capsicum frutescens
+C0999029||phyllomedusa sauvagii
+C0323288||noctuidae
+C1047690||tengmalm’s owl
+C1072194||n. gracilis
+C0999360||willow warbler
+C0324998||indian wild dog
+C0325461||black stork
+C1498269||cooper's hawk
+C2314868||sumatran orangutan
+C0023374||lesch–nyhan syndrome
+C1010066||parnassius
+C1210650||farfugium japonicum
+C0949805||iridaceae
+C0041228||african trypanosomiasis
+C0014548||generalized seizure
+C2627423||dickinson's kestrel
+C1059265||rissoidae
+C0998416||scarabaeidae
+C1011390||melospiza
+C1020475||salmonberries
+C1648370||moluccan dwarf kingfisher
+C0324004||hydrobiidae
+C0236969||addicted
+C2994547||lucifuga
+C0996641||evergreen southern magnolia
+C2275324||white-breasted cuckooshrike
+C0326872||bobolink
+C1003268||orectolobiformes
+C0325196||chacoan peccary
+C1078447||melaleuca
+C2788002||spur-winged geese
+C0023263||fabaceae
+C1232279||harris's hawk
+C1069917||orculidae
+C1676703||garcia nutans
+C1207378||coast mole
+C1051520||kazbeg birch mouse
+C0320364||trichonympha
+C1013780|C1083884|C1013782||greenish warbler
+C0014544|C0236018||epilepsy
+C0018378||guillain–barré syndrome
+C2783129||boat-billed tody-tyrant
+C1003841||eurasian curlew
+C1091697||n. tentaculata
+C1004571||antarctic minke whale
+C0002736||amyotrophic lateral sclerosis
+C1082623||trypeta
+C0027051||heart attack
+C1091391||palmirah
+C0946617||dactylis
+C0320079||c. lunata
+C1059944||megachilidae
+C0325242||nyala antelope
+C0949899||annonaceae
+C0999349||hooded pitta
+C0326994||plethodontidae
+C1648370||moluccan dwarf kingfisher
+C1022478||anthophora
+C0224511||suture
+C0162606||oxyurida
+C1082275||muricidae
+C1482334||cosmopterigidae
+C0011570||blue
+C1226326||cape wagtail
+C1059944||megachilidae
+C1482362||thyasiridae
+C1022772||canadian lynx
+C1081137||oreochromis
+C1058499||common redstart
+C0969712||rose family
+C1014714||spanish moss
+C1001355||gesneriaceae
+C0027401||narcissists
+C0021099||impetigo
+C1006853||("a." "wilsoni"
+C0998490||tephritidae
+C0035853||rose
+C1460605||mesopsocidae
+C0032821||k
+C1020750||holly oak
+C0027962|C4280269||mole
+C1070069||partula suturalis
+C0152096||edwards syndrome
+C0600537||songbirds
+C2634269||white-fronted plover
+C1047770||quercus variabilis
+C0036082||saline
+C0006837||candida albicans
+C0085084||motor neuron disease
+C1193783||lark sparrow
+C0969712||rosaceae
+C1510487||bean
+C1020121||green kingfisher
+C0013138||drosophila
+C1025663||spinifex
+C1220043||banksia ornata
+C1013359||"c. fastidiosus"
+C1003247||procellariiformes
+C0326093||caprimulgiformes
+C1082072||tropicbird
+C0016622||fovea
+C1647074||rufous-crested coquette
+C0026802||muridae
+C0998466||snout moth
+C0524885||rubiaceae
+C1041700||bostrichidae
+C1093917||eulimidae
+C1024812||linden
+C0024299|C0598798||lymphoma
+C0037231||sjögren–larsson syndrome
+C1011388||golden-crowned sparrow
+C2803429||ypsolophidae
+C0006837||candida albicans
+C1194171||pyramidellidae
+C0998853||misgurnus fossilis
+C1095869||echinacea
+C1848913|C1848916|C1848915|C0039373|C1848922|C2749283|C1848917|C1848914||tay–sachs disease
+C1001566||lycaenidae
+C1052296||tundra swan
+C0327057||hylidae
+C0323288||noctuidae
+C0327933||chir
+C0521087||c. arabica
+C0329851||myoxocephalus scorpius
+C1940662||pied wheatear
+C0998077||trochidae
+C0326785||prothonotary warbler
+C0996802||saxifragaceae
+C0037494||nacl
+C1203695||syncarpia glomulifera
+C1911809||peribatodes secundaria
+C1028008||corduliidae
+C0549207||vertebral centra
+C1632144||celtis australis
+C0969715||anacardiaceae
+C1032478||brya ebenus
+C1491110||blackburnian warbler
+C1668673||dendroseris litoralis
+C1015396||dytiscidae
+C1080412||socotra cormorant
+C1015903||common noctule
+C0999498||senegal bushbabies
+C0997649||colletotrichum capsici
+C0597910||myriapods
+C0041942||urea
+C0949956||orchidaceae
+C0079005||baculoviridae
+C1033603||sawadaea
+C1018265||cycas taitungensis
+C0018378||guillain–barré syndrome
+C0996947||cuscuta
+C0017471||gametes
+C1449597||common raven
+C0949997||caryophyllaceae
+C1188267||histeridae
+C1473118||carposinidae
+C0079948||oryzomys
+C1028598||polyceridae
+C1056477||chlopsidae
+C2991586||osiris
+C1918727||dark-footed mouse shrew
+C0997177||sugar cane
+C1269537||brain
+C0325233||pronghorn
+C0254121||merlin
+C0330840||lotus corniculatus
+C1008365||arthoniales
+C1081040||fasciolariidae
+C2292608||phrynobatrachus inexpectatus
+C1045350||gracillariidae
+C2805985||familiar chat
+C0330171||macrozamia miquelii
+C1094241||reynoutria japonica
+C0011570||depression
+C1080840||dicksonia antarctica
+C2759962||galium verum
+C1023938||tamarix
+C1089754||nepenthes madagascariensis
+C1001566||lycaenidae
+C0325825||lesser yellowlegs
+C0950025||sedge
+C0004048||inhaled
+C2765968||nymphes myrmeleonides
+C1674456||green hermit
+C0085494||enterococcus
+C0035853||rosa
+C2793796||greater short-toed lark
+C1204539||uracentron
+C1081403||cyclanthaceae
+C1003950||lomariopsidaceae
+C1679285||cape canary
+C0026802||muridae
+C1474188||crabronidae
+C2756997||protease inhibitor (biology)
+C0998918||carangidae
+C1033802||lamiinae
+C1212703||greater scaup
+C0005678||latrodectus mactans
+C0599456||sphingidae
+C0010825||cytomegalovirus
+C0087114||wheat
+CL508424||addictions
+C1002261||aplocheilid killifish
+C1135944||securinega
+C1081656||channidae
+C0033497||propranolol
+C1095850||gorilla
+C0326870||eastern meadowlark
+C1332355|C0241910||autoimmune hepatitis
+C1271306||dinomyidae
+C0007570||coeliac disease
+C0327927||arctic cisco
+C1045498||eugongylus
+C1059178||baridinae
+C0034303||pyrogallol
+C1482334||cosmopterigidae
+C0162809||kallmann syndrome
+C1072201||n. longifolia
+C0524739||blue whale
+C1462289||black-crowned sparrow-lark
+C2298991||largeleaf aster
+C0330951||anacardium
+C1300970||ardea
+C2275125||catocala fraxini
+C1232272||zone-tailed hawk
+C1645742||blue-throated roller
+C1035101||forrest's mouse
+C0001314||major acute hospital
+C1074194||plebejus idas
+C1020555||pinus nigra
+C1226944||african grass owl
+C0018210||grass
+C1032982||great spotted cuckoo
+C0327057||hylidae
+C3002757||notodonta dromedarius
+C1038953||grey-rumped swallow
+C1225576||alder flycatcher
+C0071772||saltpeter
+C0326375||tree swallow
+C1221109||heterophasia
+C0156147||crohn's disease
+C1944485||bryant's woodrat
+C0178417||introvertive anhedonia
+C1004147||gelechiidae
+C0522458||poplar
+C1891931||beaded wood mouse
+C0328358||ariidae
+C1020839||randia
+C0949816||myrtle
+C1300432||sorex
+C1021680||stewartia
+C1008452||curculioninae
+C1056533||halimeda
+C1062354||red-flanked duiker
+C0041234|C0007932||chagas disease
+C1225616||stenochironomus
+C1057625||myrtles
+C1061066||sandwich tern
+C0446243||euphorbiaceae
+C1081122||ciona
+C1062847||echinocactus
+C0326634||golden-crowned kinglet
+C0038631||catostomidae
+C2613881||white-chinned sapphire
+C0998416||scarabaeidae
+C0331502||glyceria
+C1005250||myrmicinae
+C0325130||northern elephant seal
