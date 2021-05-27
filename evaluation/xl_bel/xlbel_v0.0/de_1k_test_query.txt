@@ -1,0 +1,1000 @@
+C1023940||Armeria
+C2051831|C0016842||Trichter-
+C0027996||Vitamin-B
+C0221347||Akrozyanose
+C0999653||Wasserratten
+C2939420||Metastase
+C1039825||Lepidogalaxias salamandroides
+C0017547||riesen-
+C1036279||Riesenlilien
+C0026391||Molluske
+C1030409||"Symphysodon haraldi"
+C0040630||Transsexueller
+C0235660|C3665358||Galaktorrhoe
+C0325005||Präriewolf
+C0006681||kalkreicher
+C0074493||Sibutramin
+C0154209||Hyperöstrogenismus
+C0002726||Amyloid-Fibrillen
+C0015392||mittlere Augenhaut
+C0012634||kranken
+C1001216||Klebsamengewächse
+C0997125||Lotusteichen
+C0999635||Murmeltiergehege
+C0013136||Droperidol
+C0013500||Kurzschnabel-Ameisenigel
+C0025427||vergiftete
+C0017675||Erkrankung der Zunge
+C1207614||Braunkappen-Waldsänger
+C1013015||Hedysarum alpinum
+C0326415||Kiefernhäher
+C0330866||Tutu
+C0796028||ARTS-Syndrom
+C0013336||Kleinwüchsiger
+C2827346||glutine
+C1013997||Burmanniaceae
+C0376207||Jakobsgreiskraut
+C1095052||Neembaums
+C1030589||Berg-Klee
+C0038215|C0681932||statistische Analysen
+C0524885||Pavetta
+C0086418||Verstorbenen
+C2776803||Keilfleckmosaikjungfer
+C0998899||Cichlasoma trimaculatum
+C0014544|C0236018||antiepileptischen
+C0262926||Vorbericht
+C0054616||Caprylsäure
+C0031132||Huftiere
+C0021368||Entzündungsreaktionen
+C1887453||Mädesüß-Perlmuttfalter
+C0546884||Blutvolumenmangel
+C0154455|C0003469||spezifischen Ängsten
+C0000731||Völlegefühl
+C0331662||Hippeastrum
+C0330264|C1079508||Ranunkel
+C0040046|C0265057||Thrombophlebitis
+C0020490||Weitsichtigkeit
+C1481761||Ponyfische
+C1017681||Kronwicken
+C1233690||Felsgleithörnchen
+C0325270||Riedbock
+C1664821||Brezo
+C0996751||Schwammkürbis
+C0520949||Kaufrausch
+C0002640||Amobarbital
+C0015230||Primäreffloreszenzen
+C0037494||kochsalzfrei
+C0242830|C0041316||skrofulöser
+C1093035||Amblyornis
+C0233778||„blau, von opiatischer, narkotischer Wirkung“
+C0682494||Erythroxylum
+C0039093||Synostose
+C1456784||paranoides Verhalten
+C0998865||Masu-Lachs
+C0996836||Ranken-Platterbse
+C0056077||Ubichinone
+C0326400||Cornish Choughs
+C0673966||Brinzolamid
+C0320991||Myxozoa
+C0324830||Bartaffe
+C0325725||Jungfernkranich
+C0025887||Mexitil
+C4083212|C0574769|C1864584|C1850535|C0002170||„Schulterglatze“
+C1226326||Kapstelze
+C0013428||Harnzwang
+C0235238||Akkommodationsstörungen
+C1263846|C0041671||Aufmerksamkeitsstörungen
+C0328753||Nassau-Zackenbarsch
+C1070158||Lontarpalmen
+C0999755||Chaetognathen
+C0331285||Teakholzplanken
+C2633089||Bahia-Tapaculo
+C0497156||Schwellungen
+C1000638||Ardisia
+C1081646||Fledermaus-Arten
+C0028215||NO
+C0020889||Darm-
+C2622880||Scalesia
+C0422883||dominanten Auges
+C0021585||Insektenpopulationen
+C1008003||Nachtbaumnattern
+C0175866||Kuhreiher
+C1055135||Scardafella
+C0324001||Nassarius
+C0325922||Carolinataube
+C1081650||Mittelmeerkärpflinge
+C0330452||Primulaceae
+C0003075||anionische
+C1673582||Riesenkolibri
+C0999316||Truthähne
+C0036439||verkrümmte Wirbelsäule
+C1027091||Semmelstoppelpilzen (Hydnum repandum)
+C0325222||Formosa-Sikahirsch
+C0330788||Ackerbohne
+C0012772||Disulfiram
+C0036129||Salmonidenfischart
+C0997112||Teich-
+C0329446||Butterfischen
+C1887953||Dreifinger-Steinbrech
+C0999502||Silberäffchen
+C0996613||Kiefernheide
+C0997125||Lotos-Blüten
+C0151699||Hirnrindenprellungsblutungen
+C0030362||Paviangruppen
+C1007927||Brandmaus
+C2586211|C0040053||Venenthrombosen
+C0015558|C0153579||Tuben
+C1016419||Chaetostoma
+C1009970||Wolfsbarschart
+C0330367||Greasewood
+C0031437||Typs
+C0085835||Erdnüssen
+C0330477||Speisekürbisse
+C2789794||Andennachtschwalbe
+C1010027||Bärtierchen
+C1002209||Papageientaucher
+C0013362||Dysarthrie
+C0330682||Tylecodon
+C1093126||Thelypteris
+C1208632||Alpenaurikel
+C0014563||Epinephrine
+C0036227||Parasiten
+C0324998||Asiatische Wildhunde
+C0325021||Sibirischen Braunbären
+C1013914||Nachtfalken
+C0018210||Süßgrasarten
+C0085226||Mohrenäffchen
+C1045561||Arctomecon
+C1561619||extrahiert
+C0330186||Nuss-Kiefer
+C0329489||Grundelexpertin
+C0325460||Weissstörchen
+C2765039||Harlekinkrabbe
+C3176494||-dysphorie
+C0013393||Dysostose
+C0001811||nimmt stetig mit dem Alter
+C1025886||Kupferglanzschwänzchen
+C0330996||Ahornbestand
+C0563240||Saatplatterbse
+C0038826||Superinfektion
+C0325557||Rot
+C4083212|C0574769|C1864584|C1850535|C0002170||Kahlkopf
+C0060520||Fluoreszintest
+C0949851||Hemlock
+C0004352||autistisches Verhalten
+C0497156||Lymphknotenschwellungen
+C0223792||Hand-
+C0326253||Bunt
+C0036953||Shigella
+C1494480||Wiesen-Platterbse
+C0330938||Götterbäume
+C0998324||norwegischen Hummer
+C0018889||Würmer
+C2647999||Herpesvirales
+C0330340||Kakteenwüste
+C1046451||Auerhahnschutzgebiet
+C0005716|C0005717||südamerikanische Blastomykose
+C0085330||Ciliatenart
+C0323769||Krabben-
+C0522458||Pappelpflanzungen
+C0023516||Leukozyt
+C1001242||Waldsteinien
+C0004238||Vorhofflimmerns
+C1061066||Brandseeschwalbe
+C0043357||Schwertträger
+C1227211||Desulfovibrio
+C1058964||Goldmanteltamarin
+C1491665||Faden-Segge
+C0752339||Mönchspfeffer
+C0003289||Antidepressivum
+C0021044||IFAT
+C0017160||Gastroenteritidien
+C0033740||Infektionen durch Protozoen
+C1093367||Goldfröschchen
+C2614441||Weißspecht
+C2776583||Malagettapfeffer
+C1671848||Kohlkratzdistel
+C1087129||Blautukane
+C0330656||Mandel
+C1069775||Weißbecher
+C0325053||Silberdachs
+C0330641||Faulbäume
+C0031154|C0029823||Bauchfellentzündung
+C1120110||Tekturna
+C1000947||Palmen
+C0015349||Extrazellularflüssigkeit
+C0330463|C2673181||veigerl
+C1014665||Araeococcus
+C1680204||Hypoptopoma
+C0546884||Volumenmangel
+C0185181||Myotomie
+C0025484||Mittelhamster
+C1060734||Teichjungfer-
+C0037494||Kochsalzkonzentrationen
+C0032273||Baumwollstaublunge
+C1027074||Magellan-Füchse
+C0071751||Kaliumhydrogencarbonat
+C1031479||Neuseelandente
+C0326962||Goldammer
+C0041073||Triolein
+C0206583||Parapocken
+C1004653||Euglenozoa
+C1087653||Vu-Quang-Rind
+C1023634||Polarhase
+C0325084||Hyänen
+C0949819||Reb
+C1092980||Dicranales
+C0032326|C0029850||Pneumothorax
+C0949941||Walnuss-
+C0996555||Bärlappe
+C0042024||Urin-
+C1027332||Dorcopsis
+C0682477||Palmenalleen
+C0265916||Fehleinmündung einer oder mehrerer Lungenvenen
+C1474586||Graubrust-Dickkopf
+C0206399||Microviridae
+C0030049||Oxycodon
+C0996613||Moorkiefern
+C0032064||epidemie
+C1086021||Azurjungferarten
+C1834674|CN029274||Bethlem-Myopathie
+C0037772|C0030486||Querschnittsgelähmten
+C0036025||Hefepilzen
+C1934766|C1932568||Graufächerschwanz
+C0021585||Insekt
+C1681294||Fettschwanz-Rennmaus
+C0325036||Wiesel
+C0005100||Benzylalkohol
+C0325021||Alpen-Braunbär
+C0003025||Jungaale
+C0325299||Thomson
+C0238115||Speiseröhrenriss
+C1013500||Hyaloscyphaceae
+C1054149||Alopecurus geniculatus
+C1081459||Aulonocara
+C0011127||Druckstellen
+C0006674||1,25(OH)VitD
+C0345904|C0854795|C0024620||Lebermetastasierung
+C0154319|C0497327||dementia
+C0446307||Petroselinum crispum
+C0154319|C0497327||dementiell Erkrankter
+C0325226||Riesenelches
+C1074678||Sägehornbienen
+C1458706||Weißbauchgirlitz
+C0205950||Schädeldach
+C0158450|C0003977|C0158451|C0158442|C0745048|C0520474|C0158449|C0027543|C0085660|C0877326|C0029445||Knochennekrose
+C1192503||Chasmanthe
+C0002625|C0002622||amnestisch
+C0325222||Dybowskihirsch
+C0998453||Weißling
+C0996577||Königsfarn
+C0032225||Brust-
+C0327647||Bullenhaie
+C1083911||Weißflanken-Andenkolibri
+C0997597||röhrlings-
+C2076600||Schweineinfluenza
+C1892976||Rotdrossel
+C0040592|C0153107|C0153108||ägyptische Augenentzündung
+C0596981||Muskelfibrillen
+C0026618||Zahnfluorose
+C0028785||occipitalen
+C1084179||Helm-Knabenkraut
+C1063546||Feuerkopf-Saftlecker
+C2793793||Petschorapieper
+C0007222||Herz- und Kreislaufkrankheiten
+C2752042||CLOVE-Syndrom
+C1862425|C1837760|C0015300|C1848490||Protrusio bulbi, Exophthalmus
+C0326376|C2293746||Uferschwalbe
+C0021368||Inflammation
+C1034907||Fettmäuse
+C0008152||Chlamydien
+C1093394||Berggrubenottern
+C0971876||Mahagoni
+C1202826||Brillentaube
+C0040147||Thyreoiditis
+C0996923||"Datura wrightii"
+C1018770||Neptungrases
+C0325534||gleichnamigen Vogel
+C1012795||Montipora
+C0946573||Ananaskönig
+C1011386||Harris-Ammer
+C0996523||Bürstenmoose
+C0330304||amerikanische Spitzeiche
+C1629253||Glanzloris
+C0325886||Inkaseeschwalbe
+C0152186|C0270499||tierpornographische
+C1019659||Blennioidei
+C1032338||Bruch-Weide
+C2937365|C0038363||Aphthe
+C1019603|C0325256||Anoas
+C1016296||Rotzügelsittich
+C0037016||Soriciden
+C0327220||Anolis-Arten
+C1283798|C0458827||Respirationsorgane
+C0020312||Pneumoserothorax
+C1018810||altweltlichen Sumpfschildkröten
+C0242830|C0041316||skrofulösen
+C0950101||Kurkuma
+C1007764||Moorbirken-Standorten
+C0003864||Gelenkschmerzen
+C1081336||Catopsis
+C0016034||Mastopathie
+C1049662||Racinaea
+C0020517||Hauttests
+C1192811||Hornraben
+C1931967||Wald-Storchschnabel
+C0032579||Porlingen
+C0004030||Invasiven Aspergillose
+C1016934||Inselratten
+C0000881||Kratzwürmer
+C0001418||Lungenadenokarzinomen
+C0018210||Süßgrasart
+C1016818||Seeadler
+C0027882||Nervenzellen
+C1673731||Palawan-Spitzhörnchen
+C0206734||Hämangioblastom
+C0009210||Kokosnussteilen
+C0013450||Gehörknöchelkette
+C2759607||Rundaugen-Mohrenfalter
+C0524873||Malvales
+C0331487||Arecanuss
+C0117953||Freon-Gas
+C0027996||Niacin (Vitamin B3)
+C1071225||Schwertnasen
+C1022777||Caracal
+C1210772||Nicobartaube
+C0326440||Seiden-
+C1942446||Südliche Magenbrüterfrosch
+C1675356||Schmuck-Kofferfische
+C0039614||Tetanus
+C1034730||Gotteslachse
+C1018209||Wald-Engelwurz
+C1256659||Kalmegh
+C1056893||Ganges-Delfine
+C0024091||lumbalen
+C0328651||Glanzfische
+C0700374||Gaumen
+C1018770||Neptungras
+C0002668||amphibisch
+C0326395||Aaskrähe
+C0227011||Zahnhälsen
+C1019150||Pestwurz
+C0330320||Roterle
+C0015392||Okuläre Auffälligkeiten
+C1193595||Alpen-Waldfarn
+C0014544|C0236018||Anfallsleiden
+C0036310||Morbus Scheuermann
+C0325613||Geierperlhühner
+C1903228||Raub
+C0001816|C0003635||Agnosie
+C1012977||Slowakische Kuhschelle
+C1269537||Hirnsubstanz
+C1070154||Zuckerpalme
+C0032521||polymeren
+C1508276||roten Zedern
+C1077177||Pastel
+C0950033||Blueberrys
+C2617574||Dotterweber
+C1095860||Mehlkäfer
+C1466716||Sternseggen
+C1025635||Zitronengras
+C0327875||Gattung von Heringsartigen
+C0018193||Fremdkörpergranulomen
+C0028215||Stickoxyduls
+C2586211|C0040053||antithrombogene
+C0998426||Dunkelkäfer
+C2939465||Glucose-6-phosphat-Dehydrogenase-Mangel
+C0038215|C0681932||gruppenstatistische
+C0997605||Filzröhrlinge
+C0330206||Ginkobäume
+C0003704||Arachnoiden
+C1041908||Wunderlampen
+C0222647||Schaftes
+C1006613||Schwarzbauch-Meerläufer
+C0010825||Cytomegalovirus
+C1864156|C0009763||Bindehaut
+C1909271|C1462016||Nepalhaubenadler
+C0013453||Ohrmuschel
+C1189277||Milchuhu
+C1213470||Moosbeere
+C0325228||Hirschen
+C0261590||Bestrahlungsgeräte
+C0001815|C0026987||Osteomyelofibrose
+C0697093||Buche
+C1054149||Knickfuchsschwanz
+C0028013||Nickel-
+C0022023||Ion
+C0007847|C0007873|C4048328||Collum-Karzinom
+C0199470||Atemunterstützung
+C1005768||Reisquecke
+C1004330||Ulvophyceae
+C1078519||Alpenbalsam
+C0262926||Patientengespräch
+C0004738||Barcodescanner
+C0120446||Guanidin
+C1033875||Weigelia rosea
+C0003075||negativ geladenen Gegenion
+C1025627||Astrebla
+C0004923||Apoiden
+C0206650|C0346158|C0178421|C1333137||Fibroadenom
+C0162323||Polyarthritis
+C0330871||Limbabäumen
+C1207203||Bergminze
+C3898830||Erotomanie
+C0999454||Weißbauchigel
+C1948017||Mastix
+C0030567||Parkinsonschen Erkrankung
+C0326500||Alpenmauerläufer
+C1141017||Weißhafer
+C0014518||Lyell-Syndrom
+C0026609||oberen Motoneurons
+C1214789||Lappenhopf
+C0031538||verengte Vorhaut
+C1280672|C0027423||Nasenhöhle
+C0328254||Schleien
+C0325224||weißschwänzige Hirsche
+C0999648||Langschwanz-Zwerghamster
+C0034499||Enok
+C0324023||Gastropden
+C0874159||Matetee
+C1208679||Beulenkrokodil
+C0567415||Elektronenhülle
+C0034014||Scham-
+C1049366||Thryptomene
+C0035005||Rentier
+C1862099||Biemond-Syndrom
+C0002022||Medicago sativa
+C1083953||Lygodactylus
+C0158303||Kalziumeinlagerung
+C1024351||Schuppenschwanz
+C1910432||Echsenbeckensaurier
+C1019629||Obstbaumkrebs
+C0023343||„Aussatz“
+C1491238||Rotstirn-Bartvogel
+C0004339||zu auskultieren
+C1500602||Termitenspecht
+C0996914||Sauerkleegewächse
+C0020578||hyperventiliert
+C1225076||Blütengrillen
+C1041194||Mormyrops
+C0331577||Kanariengras
+C1466713||Braun-
+C2802950||Gelblemming
+C0003962||Aszites
+C2277030||Espostoa
+C1682525||Labkrautschwärmer
+C0236033||muskelbildenden
+C1045656||Afrikanischem Waldelefanten
+C0597910||Kürbistausendfüßler
+C2333438|C0007799||subventrikulären
+C1016652||Schelladler
+C0409959||Kniearthrose
+C2647878||MacArthur-Mausmaki
+C1887440||Hochmoor-Perlmuttfalter
+C1091395||Kentia-Palmen
+C0330452||Primel
+C0524554||Delfinmotiven
+C0003286||antiepileptisch
+C0037299||Geschwürs
+C1034344||Zwergröhrlinge
+C0011133||Hirschfelle
+C0009421||komatösen Zustand
+C0682492||Vitis vinifera
+C1630331||Honoki-Magnolie
+C0950025||Sauergrasgewächsen
+C1261477||Salats
+C1015522||Mydidae
+C0277553||idiomatischer
+C1664893||Kartäusernelke
+C0261590||strahlentherapeutischen Behandlung
+C0007222||kardiovaskuläre Erkrankungen
+C0325222||Vietnam-Sikahirsche
+C0998192||Achtarmigen Tintenfischen
+C0036690|C0243026||septische
+C0030567||Morbus Parkinsonii
+C0155339||Brown-Syndrom
+C0003459||Froscharten
+C0026733||Meeräsche
+C0014563||adrenerge
+C1942706|C1000984||Schmielen
+C0026584||Stechmücke
+C0034150||charakteristischer Hautausschlag
+C0999490||(Eigentliche) Langflügelfledermaus
+C2239176|C0279607|C1867955|C1862761||Leberzellkarzinoms
+C0006675||Ca-Ionen
+C0085360||Kinetoplastida
+C1925622||Allenkolibri
+C0009968||Garkupfer
+C1074437||Entandrophragma
+C0331561||Rispenhirse
+C0013369||Durchfallerkrankungen
+C0340464|C0237314|C0003811||Herzarrhythmie
+C0325481||Chilenischer Flamingo
+C0996613||Forchen
+C2586211|C0040053||thrombosierte
+C0029436||Gorham-Stout-Syndrom
+C0998975||Butte
+C0999468||Flughunden
+C1007945||Mastodonten
+C0017431||genotypisch
+C0998080||Brackwasser-Schlammschnecken
+C1015961||Xeronema
+C1031554||Trebouxiophyceae
+C0325368||Wanderalbatros’
+C1943877|C1061056||Ficedula parva
+C0998466||Motten
+C0011145||Deferoxamin
+C0326081||Elfenkauz
+C2806371||Schizaeales
+C1003273||Argali
+C0003483||Herzröhren
+C0325460||Weiß-
+C0024894||Euterentzündungen
+C0061387||Glucono-δ-lacton
+C0020550||thyreotoxische Krise
+C1082671||Lanzenfliegen
+C1052980||Flusskrebspest
+C0996613||Rotföhren
+C0007114||Haut-
+C0026143||Melkerknoten
+C0998821||Latimeria chalumnae
+C0030560||parietal
+C1051451||Fransenfledermaus
+C0998822||Stachelstrahlen
+C1020108||Amazilia-Kolibris
+C0997269||Pandanusfrüchte
+C0999699||Meerschweinchens
+C0037315||Schlafapnoesyndrom
+C0037883||torfmoosreicher
+C0326264||Rotflanken-Breitrachen
+C0039614||Wundstarrkrampfes
+C0331672||Narcissus
+C0242870||Schierlingsumpf
+C0028949||zu seltene Menstruationsblutung
+C0949820||Wein
+C0325971||Grünwangenamazone
+C0993564||asiatische Geparde
+C0031874||Hansenula
+C0327167||Mississippi-Alligator
+C0003615|C0085693||Blinddarmdurchbruchs
+C0327670||Schaufelnasen-Hammerhaie
+C0004775||Bartter-Syndrom
+C0997457||Kastanienrindenkrebs
+C0006135||Kohl
+C0005682||Schweinsblasen
+C0030560||Parietalhirn
+C0596222||Branchiopoden
+C0026716||Schimmelpilz
+C1040686||Hundsruten
+C0026609||motorische Nerven
+C2620630||Burma-Sonnendachs
+C0034655||Gras
+C1192560||Alpenmohn
+C0999152||Südamerikanische Strauße
+C0884961||Castilleja
+C1017117||Orchideen
+C0013369||Diarrhoe-Epidemien
+C1039591||Matooke
+C0005388||biliärem
+C0027794|C0080218||Neuralrohrdefekt
+C0340464||ventrikulären Extrasystolen
+C0524519||Hyänen
+C2314530||Buschwürger
+C0013080||Down Syndrom
+C0996244||Irländischem Moos
+C3489393|C0376710|C0267725||Hiatushernie
+C1469469||Rotbrust-Samenknacker
+C0546884||unzureichendes Blutvolumen
+C0327714||Sternrochen
+C2242472|C0029443|C0008707||Knochenmarksentzündung
+C2764092||Silberhakenschnabel
+C0153690||Metastase
+C0022346||Gelbsucht
+C0327732||Rundstechrochen
+C0999322||Belchen
+C1261477||Gartensalat
+C0325037||hermelinbesetztem
+C1003273||Argali-Schaf
+C3551535|C0158619|C0026266|C0264774||Insuffizienz der Mitralklappe
+C0026820||Verkürzungsfähigkeit des Muskels
+C0002658||Speed
+C0024660||Landsäugetiere
+C0330498||Kohlarten
+C1188301||Uzungwe-Viper
+C0018021||Kröpfen
+C0026912||Mykobakteriose
+C0330845||Astragalus
+C0005953||KM
+C0325569||Steinadler
+C0002771||Schmerz-
+C1051658||Batrachochytrium dendrobatidis
+C1845055||ATR-X-Syndrom
+C1122969||Olivenkranz
+C0330580||Purgiernuss
+C0679247||terminalen
+C0262926||Anamnestische
+C0018026||Goldgruben
+C1001546||Wegwespen
+C0325313||Sichuan-Takine
+C1015285||Blässgänse
+C1491561||Brucepattersonius
+C1030970||Fledermausfische
+C1442903||Überbeins
+C1283798|C0458827||oberen Luftwegen
+C1007945||Mastodont
+C1025962||Leiodidae
+C0325250||Balirinder
+C0330540||Maulbeere
+C0002921||Lokalanästhetikums
+C0018026||Waschgold
+C1196307||Eviota
+C1004907||Eudorina
+C1271499||Halskrausenflughunde
+C1123019||Fleischschaf
+C0034929||bedingter Reflexe
+C0330327||Haselnusskern
+C0325361||Rolland-Taucher
+C0327219||Stachelleguan
+C0025417||Quecksilber-Bichlorid
+C0037070||Baumwollratten
+C0035804||Nagetiergruppe
+C0037020||Hemmung
+C0008495||Amnioninfektionssyndrom
+C1187616||Wasser-Schwertlilie
+C0323853||Ruderfußkrebsart
+C1198876||Netzaugenfische
+C0206635||Myelolipom
+C0003483||Schlagader
+C0022116||Minderdurchblutung
+C1082254||Trollblume
+C0009421||künstlichen Tiefschlaf
+C0018820||Herztöne
+C1070518||Schmetterlingshafte
+C1854348|C0019825||funktionellen Stimmstörung
+C0682485||Brassicales
+C0003962||Wassersucht
+C0233800||fabulierte
+C0330477||Kürbisgewächsen
+C1072441||Zwergkirschen
+C0524874||Malvengewächs
+C0330482||Goya-Gurken
+C1058113||Caralluma
+C0040774||Transvestitin
+C0324962||Indische Stachelschwein
+C1025870||Bodhi-Baum
+C0024730||Mannit
+C0684275||Hämophilie (Bluterkrankheit)
+C1265527||Pferds
+C0996956||Olivenhainen
+C0027581||Kartoffelnematoden
+C1204889||Jakobskrautbär
+C2791648||Möhrenfliege
+C1018893||Stevia
+C0324949||Berg-
+C0524717||Streifenskunk
+C1010685||Großmazama
+C1384666|C0339789|C3887873|C0018772|C0011053||Hörfähigkeit
+C0325442||Blaureiher
+C0001485|C0009450||Infektionskrankheiten
+C1858991||CACH-Syndrom
+C1027083||Schafporlingsverwandte
+C0004352||Autismus-Spektrum-Störungen
+C0330788||dicke
+C0010031||Augenhornhäute
+C0035591||Rickettsiaceae
+C1004206||Vierfüßer
+C0326030||Kuckuck
+C0041296||tuberkulösen Meningitis
+C0325455||Schuhschnäbel
+C0027882||Nervenzellfortsatzes
+C0884985||Lärche
+C1006157||Dickschnabelkrähe
+C1843187|C0751576|C1853729|C1832690||Rekurrensparese
+C1932627||Grünschwanz-Glanzstar
+C0016978|C0278806|C4020708|C0153452||Gallenblasenkrebs
+C1501620||Ackerhahnenfuß
+C1384666|C0339789|C3887873|C0018772|C0011053||Taubheit
+C0982011||Aluminiumacetat
+C1022243||Bergpapagei
+C2622873||Langnasen-Maulwurf
+C0323288||eulenfalterartiges
+C0655880||Krameria
+C1208951||pazifischen Ringelgänsen
+C1041129||Chromis chromis
+C0003864||Gelenksentzündung
+C0041296||Tuberkulose-Krankenhaus
+C0949902||Osterluzei
+C2619995||Koa-Akazie
+C0950005||jaras
+C2242472|C0029443|C0008707||Knocheninfektionen
+C1036196||Banksia
+C0995533||Synechococcus
+C1668972||Rollfarne
+C0026131||Magermilch
+C0036945||Widder
+C1020522||Sichelwanzen
+C0524951||Kampfer-Töpfe
+C0998870||Dorschrogen
+C0330282||"Corydalis"
+C1001138||Kastanienbäume
+C1479373||Staubhafte
+C0032521||polymere Werkstoffe
+C1054998||Thrinax radiata
+C0663655||Abacavir (Ziagen®)
+C1532959||White-Dot-Syndrome
+C0999122||Plattschwanz
+C0032831||Iodtabletten
+C0949850||Fichtenbestände
+C0043250||Wundsitzen
+C1466914||Usambara-Buschhörnchen
+C1021463||Grünliche Waldhyazinthe
+C0326127||Kolibri-Arten
+C0010633||Zystom
+C0971877||Bergweide
+C0235153|C0018524||akustischen Halluzinationen
+C1095817||biberartiges
+C0039075||Syndaktilie
+C2827346||Gluten
+C0015269||entblößen
+C1081646||Fledermäuse
+C1214839||Alpen-Fettkraut
+C0206505||Birnaviridae
+C0759933||Eletriptan
+C0042173||Uvula bifida
+C0522458||Pappelart
+C0021359||Fertilisationsstörung
+C1095827||Malabar-Lackbaum
+C0041471|C0041473|C0343758|C0041472||Flecktyphusimpfungen
+C0330317||Gelb-
+C0024530||Sumpffieberepidemie
+C1031314||Scarabaeoidea
+C0325884||Rußseeschwalbe
+C1043082||Gangeskrokodils
+C0018671||Halskarzinoms
+C1051770||Mistkäfer
+C0007447||Kations
+C1015011||Purpur-
+C0010547||Cyclizin
+C0004763||Barrett-Syndrom
+C0325390||Weißschwanz-Tropikvögeln
+C0996936||Petunie
+C0162834||Hyper-
+C0221358||Dolichocephalie
+C0038742||Sulfinpyrazon
+C0036341||schizophrener Schub
+C0277977||Murphy-Zeichen
+C0002771||Schmerzmittel
+C0008238||chloroformähnlichem
+C0032094||Breitwegerich
+C0949898||Rhus tahitensis
+C1009917||Galmei-Taubenkropf-Leimkraut
+C0282635||Moosen
+C1202825||Türken-
+C0024003||Senkrücken
+C2624635||Rotbrustfischer
+C0034063||Stickflusse
+C1001272||Vahlia
+C1007576||Meerbrasse
+C1209379||Yacon
+C0037772|C0030486||querschnittgelähmte
+C1037283||Simsenliliengewächse
+C0331496||Hafersorten
+C1027098||Krustenschichtpilze
+C0010196||Baumwollanbaues
+C1082072||Tropikvögel
+C1891130||Schleppennachtschwalbe
+C0973461||aphasischen
+C1915490||Coxing-Weißbauchratte
+C1081377||Chrysobalanaceae
+C2930831|C0398791|C1855057||Nibrin
+C1260940||Wildgans
+C1027083||Schafporlings-
+C2333438|C0007799||periventrikulär
+C0330312||Birkenwald
+C0030044||turmköpfiger Schädelbildung
+C0009758||konjunktivaler
+C0003842||Ersatzarterien
+C0950002||Sternmieren
+C0324786||Aye-Ayes
+C0041485||Tyrosin-20
+C0055738||Eukalyptol
+C1007260||Magicicada
+C0010028||Kukuruzfeld
+C1928691||Nepalhornvögel
+C1468049||Kletterwels
+C0026503||Kloakentiergattung
+C1086629||Eberraute
+C1061362||Bananenfalter
+C1643331||Homotherium latidens
+C0330362||Salzkraut
+C0006384||Schenkelblock
+C1330625||R-134a
+C0151699||Hirnschlag
+C1305125||Staphylinidenforscher
+C0324027||Kalamari
+C1906329||Tarsomys
+C1071621||Indigolupine
+C0270962||Multicore-Myopathie
+C2801397||Cheiracanthium punctorium
+C0037303||Totenschädeln
+C0022023||ionisiert
+C0003704||Riesenspinne
+C1025443||Acantharien
+C0030567||Parkinson-Syndrome
+C0040630||Transsexualität
+C0013039||Dopingbekämpferin
+C0021368||entzündungshemmenden
+C2295058||Lackschildläusen
+C0038327||Stichlingsart
+C0016564||Formalin
+C0025424||Quecksilber-
+C0323201||Waffenfliegen
+C0949849||zederfurnierter
+C0325239||Westlichen Sitatungas
+C1494265||Mesocyclops
+C0328433||Dorsche
+C0522458||Pappel-Arten
+C1205127||Riesenchamäleon
+C0016658||Knochenbruch
+C1005648||Schweinearten
+C0018026||Goldstaub
+C1022241||Erdbeerköpfchen
+C0993591||Röhrenzähner
+C0034920||Raubwanze
+C1035847||Camaenidae
+C0524902||Andorn
+C0042947||Feldmäuse
+C0015426||Lidschluss
+C1093569||Madagaskar-Großfußmäuse
+C1456574||geschädigt
+C1055072||Gattung Bruchkräuter
+C1081323||Bocksbärte
+C1080860||Rauke
+C0281666||Alitretinoin
+C0265783||Lungenhypoplasie
+C0022680|C1567435||polycystischen Niere
+C0264886|C1861884|C0600228|C0085298|C0018790||Kreislaufversagen
+C1070068||Partula
+C0031266||Felsenbein
+C0997462||Hypomyces
+C0330783||Rot
+C2642187||Polarrötelmaus
+C0024892||Flagellatenpilze
+C1221556||Pyrenäen-Desman
+C0330264|C1079508||Brackwasser-Hahnenfuß
+C1273192||Baummäuse
+C0998192||Octopus
+C0969704||Cinnamomum
+C1275622||Kapuzenzeisig
+C0265240|C0432130|C3495417|C4023411||Goldenhar-Syndrom
+C1704272|C0005001||gutartige Prostatavergrößerung
+C0032841||Kaliumsorbat
+C0446243||Wolfmilchgewächs
+C0935989||Imatinib
+C1008574||Melastomataceae
+C0079948||Reisratte
+C0327630||Makohaie
+C1479475||Zweifarb-Uferwipper
+C1012537||Hainsimsen
+C0680686||nüchtern
+C0026820||Kontraktionsgeschwindigkeit
+C1905466||Parachanna
+C0950051||Kichererbsenmehl
+C0949948||Malpighiaceen
+C1210577||Paenibacillaceae
+C0331014||Riemenblumengewächse
+C0325260||Schwarzduckers
+C1019603|C0325256||Anoa
+C0997186||Einkorn
+C0023263||Fabaceae oder Leguminosae
+C0325326||Saiga-Antilope
+C0324688||Kurzkopfgleitbeutler
+C0025289||aseptische Meningitis
+C1078447||Myrtenheide
+C0998755||Fluss-
+C0074771||Natriumsulfit
+C1201535||Dachsgesichter
+C1079851||Verrucaria
+C0007012||CO-Ausstosses
+C1038773||Streifenbarbe
+C2314880|C1001362||gelben Schwertlilien
+C0037856||Hodenverdrehung
+C2919000||Kleinaugen-Hammerhai
+C0326396||Saatkrähe
+C2767811||Kirschblütenmotte
+C0154564||Schlaf-Wach-Rhythmus
+C1914239||Neoveitchia
+C0018965||Blut-
+C1018810||Altwelt-Sumpfschildkröten
+C0999211||Höckerglanzgänse
+C1278907|C0006255||Bronchiolenerweiterung
+C0026413||Mangusten
+C1384666|C0339789|C3887873|C0018772|C0011053||Taub
+C0213404||Rufinamid
+C1188268||Langtasterwasserkäfer
+C1094398||Weißschwanz-Preußenfisch
+C0003965||Schlauchpilze
+C1476836||Schneefeldmäuse
+C1004613||Schmutz-
+C0002625|C0002622||amnestische
+C0524751||Zwerg-
+C0152438||Sprengel-Deformität
+C0376695||victimisation
+C1210799||Dodderse
+C0021440||Tropfs
+C0033804|C0021193||Pseudohermaphroditismus
+C0020517||allergischem
+C0025611||Crystal Meth
+C0016658||knöchernen Fraktur
+C0199900||digital-rektale
+C1481814||Dickschnabelzeisig
+C0947370||Zuckermelone
+C0524554||Delphindarstellungen
+C0078792||Zink-Pyrithion
+C0007847|C0007873|C4048328||Gebärmutterhalskrebses
+C1006350||Scheidlinge
+C1019337||Zwergohreulen
+C0032699||Spongiologie
+C0946575||wilden Spargels
+C0326733||Lärmlederköpfe
+C2645372||Afrika-Zwergohreule
+C1009432||Bartwurms
+C0014544|C0236018||Epileptikern
+C2316458||Savant
+C0002795||Anaplasmataceae
+C0018210||Schillergras
+C1258215||Darmverschlusses
+C1474615||Glanzparadieskrähe
+C0086418||Homo-sapiens
+C1070892||Süßgräser
+C0009968||gediegen Kupfer
+C0006142||bösartigen Erkrankungen der weiblichen Brust
+C2301288||Alpen-Heckenkirsche
+C1059691||Merriam-Streifenhörnchen
+C0018824|C0241654|C0079485||Klappeninsuffizienz
+C1494413||Palawan-Gleithörnchen
+C1905767||Trauerwidderchen
+C0325641||Schuppenwachtel
+C0946744||Weymouth-Kiefern
+C1061987||Grünherz-
+C1706379||optischen Mikroskopen
+C0996907||Kapuzinerkresse ("Tropaeolum")
+C1078737||Weißkopfspecht
+C0017977||glycosidische
+C1947990|C0004572||Babesie
+C0330463|C2673181||"Viola"
+C1012211||Bach-
+C0018965||Blut im Urin
+C0025526||Metacarpus III
+C1054074||Hoplosternum
+C0003596||Apomorphin
+C1020555||Schwarzföhrenwaldes
+C0946601||Pekannussbäumen
+C0973446||Indische Datteln
+C0024894||Mastitiden
+C1023939||Dornpolster
+C1004206||tetrapoden
+C0031345|C0001344|C0031350|C0155824||Pharyngitiden
+C0969724||Moringa
+C0039103||entzündliche
+C0999107||Varanus
+C0034094||PCWP
+C1015770||Feuerkoralle
+C1892188||Pleioblastus
+C3536965||sulfathaltigen
+C1674232||Schlank-Spitzhörnchen
+C0024660||Säugetierknochen
+C0037518||Natriumhypochlorit
+C0277921||Leukodiapedese
+C0071755||Pottaschesalzen
+C1005948||Sukkulenten
+C0030193||Schmerz-
+C1031943||Teichbinsen
+C0003232||antibakteriell
+C0795673||Blaubeersträuchern
+C0002766||Schmerzmedizin
+C0949996|C2777771||Opuntie
+C0041296||Knochen- und Gelenktuberkulose
+C1027539||Kauri
+C0033487||Propofol
+C1213610||Leucosticte

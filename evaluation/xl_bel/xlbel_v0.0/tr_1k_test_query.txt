@@ -1,0 +1,1000 @@
+C0036451||Scorpiones
+C0001418||özofagal adenokarsinoma
+C1014924||Spartium junceum
+C1260943||Yeşilbaş
+C0005767||kan hücrelerini
+C1079747|C0996704||Begonvil
+C1910436||Tyrannosaurus Rex
+C0006675||kalsiyumu
+C0998568||Apocrita'daki
+C1510497|C0086543|C0029531||radyasyon katarakt
+C0003864||Artrit
+C0325486||Kazsılar
+C0070455||Permetrin
+C0023635||bit
+C0326366||toygar
+C0178448||Ourang-Outang
+C0008783||Simetidin
+C1006964||Kızılgerdan
+C0001080||Akondroplazi
+C0037116||Pneumoconiosis
+C0032821||potasyum birleşikleri
+C0950101||Zerdeçal
+C0751674|C0349649|C0238399||lenfanjit
+C0997105||Çınar ağacı
+C1269537||Beyin Fırtınası
+C0036439||Skolyoz
+C0560263||M
+C0040630||transseksüeller
+C0031099||gingivitisi
+C0032821||(potasyum karbonat)
+C0325713||bayağı turna
+C0022787||Kril
+C0006309||Bruselloz
+C0004611||bakteriler
+C0006267||bronşiektazi
+C1265559||Squamata
+C0597101||azotlu baz
+C0017668||fokal segmental glomerüloskleroz
+C0950093||poliovirus
+C0035579|C0221468||Raşitizm
+C0085234||gibonlar
+C0023635||bitlenme
+C0034494||Kuduz
+C0013039||Doping
+C1176497||Saguaro
+C0999374||karabataklar
+C0524515||köpektir.
+C0302583||Demir
+C0326093||Çobanaldatan
+C1041299||Aquifoliales
+C1042286||Macrothele
+C0325153||Hortumlular
+C0037925||Omuriliğin
+C0007012||karbon dioksit
+C1265533||Paytak resimli
+C2586211|C0040053||Tromboz
+C0014563||epinefrininin
+C0002792||Anafilaksi
+C3536965||Sülfat
+C1016512||dikenli şeytanı
+C0043339||ksenon (Xe)
+C0007570||Çölyak
+C0947567||Greyfurt
+C0034150||peteşiyel döküntü
+C0330654||Prunus
+C0060926||Gabapentin
+C0043047||Su
+C0998370||Kızböcekleri
+C0946611||Kişniş
+C0006826||Malign tümör
+C0524572||Cephalorhynchus
+C0023418||lösemi hastalığı
+C0014544|C0236018||epileptiform ataklar
+C0949799||defne yapraklarından
+C1015141||Cephalotaxaceae
+C1014795||Smilax excelsa
+C0330152||Ardıç
+C1202833||üveyiğin
+C0684063||ökaryot organizmaların
+C0042947||Microtus
+C0008769||Çiklit
+C0524515||köpek
+C0011595||Dermacentor
+C0001175||AIDS
+C1081166||Ciconia
+C0013039||anti-doping yasaları ihlallerinde
+C1009328||Valvatida
+C0038215|C0681932||S
+C1017800||Korsanmartı
+C1262477||kilo kaybına
+C1510478||PAPATYA
+C0020517||allerjik etkileri
+C0036341||paranoid şizofreni
+C0006033||Borrelia
+C0007018||karbonmonoksit zehirlenmesi
+C0002625|C0002622||retrograd amnezi
+C0003459||Anura
+C0009170||Kokain
+C0008769||çiklit balığı
+C0021400||GRIP
+C0041466||tifo hastalığı
+C0476254||Dislektik
+C0003289||Antidepresan
+C0149517|C0040425||bademcik iltihabına
+C0001811||yaşı
+C0330340||kaktüs
+C0001041||Asetilkolin
+C0562690||etle beslenen
+C0009968||Cu
+C0001818||Agorafobi
+C0949954||Zeytingiller
+C0031381||PCP(fensiklidin)
+C0032821||P
+C0005122||Beriberi
+C0026131||inek sütü
+C0037925||Omurilik
+C0242202||Beyin
+C0033487||Propofol
+C0026402||Molibden
+C1095850||Goril
+C0008269||Klorokin
+C0016228||pirenin
+C0392386|C0040034||düşük trombosit sayısı
+C0005388||safra kanalı kanseri
+C0326198||Boynuzlu gagalıgiller
+C0020550||Hipertiroidi
+C1001467||Tetragnatha
+C0261590||radyasyon terapisinde
+C0041485||Tirozin
+C0011133||gri geyik
+C0015392||orbita
+C0019326||fıtığa
+C0330659||Şeftali
+C0007012||CO
+C0070570||Fenol
+C0562690||etçil
+C1018614||Vampyroteuthis
+C0013030||Dopamin
+C1265524||Puma
+C0036557||Sakinleştirici
+C0242616||atgiller (Equidae)
+C0006931||Kapsaisin’in
+C0261590||radyasyon
+C0032699||sünger
+C2785504||Cryptachaea
+C1004596||Mycteria
+C0949997||Karanfilgiller
+C0006826||karaciğer kanserinden
+C0039614||tetanide
+C0325034||Sansargiller
+C0021585||Böcek
+C0027092||myopi
+C0022378||boş bağırsağın
+C0031437||genetik özelliklerin
+C0032285||Solunum sistemi infeksiyonları
+C0016204||osurduğu
+C1030673||"Rosa canina"
+C1900329||Diaea
+C0206321||Naja
+C0325386||Pelecaniformes
+C0231835||hızlı soluk alıp verme
+C0949898||sumağa
+C0998875||Bakalyaro
+C0010825||CMV
+C0326154||Coraciiformes
+C1269537||beynindeki
+C1007655||Phascolarctos
+C0999322||Fulica atra
+C0326029||Guguksular
+C2828255||Dörttebirlik
+C0038215|C0681932||istatistiklerin hazırlanmasından
+C0995181||söğüt ağacından
+C0016045||Fibrom
+C2586211|C0040053||derin ven trombus
+C0682477||palmiye yağı
+C1254144||Firmicutes
+C2282433||Parasteatoda
+C1135879||ANASON
+C1208929||Hamsi
+C0999085||Kertenkele
+C0325104||Vaşak
+C0024660||Memelilerde
+C0009221||Kodon
+C0040896||Trişinoz
+C0549207||sırt omurlarının
+C0007896||memeli deniz hayvanları
+C0330312||kayın
+C0154319|C0497327||demanstan
+C0002871|C0162119||aneminin
+C0001080||cücelerden
+C1265537||Kuzey puduları
+C0221052|C0005138||Berillioz
+C0007939||sifilis
+C1006961||Pyrrhula
+C0079024||Bizon
+C0032617||Poliüri
+C0003467|C4020884|C0679771|C1842981||anksiete
+C0029827||Şistozomiyaz
+C0026912||Mycobacterium
+C0393819|C1841700||Polinevrit
+C0007896||balinalar (Cetacea)
+C1300203||Homo türlerinin
+C0040822||istem-dışı titremeler
+C0330325||fındığa
+C0040630||Transları
+C0020672||düşük vücut sıcaklığı
+C0027401||narsist
+C0040630||translar
+C1679071||Larinioides
+C0015392||göz siniri
+C0010825||sitomegalovirus
+C0326093||Caprimulgiformes
+C0340464|C0237314|C0003811||kardiyak aritmilere
+C1009970||levreği
+C0036129||Alabalıkgiller
+C0026413||Kuyruksürengiller
+C2793802|C1006963||Kocabaş
+C0326586||ardıç kuşu
+C0013039||yasaklı madde
+C0018989||Hemiparezi
+C0684063||ökaryotik canlı
+C1052100||Botaurus
+C1849524||pigme
+C1020555||Avrupa karaçamı
+C0770426||Kodein
+C1122969||zeytin ağacı
+C0392386|C0040034||Trombositopeni
+C0997186||siyez buğdayı
+C0006434||Yanık
+C0017431||Genotip
+C0302583||iron
+C0012634||Hastalık
+C1080894||Nepenthes
+C0325235||sığırlar (Bovinae)
+C0524515||yaban köpeği
+C0330312||huş ağacı
+C0684063||ökaryotik hücrelerin
+C0998357||Araneidae
+C1269537||beyin amiloid anjiyopatisi
+C0003467|C4020884|C0679771|C1842981||endişe
+C1014924||İspanyol katırtırnağı
+C0996715||Ispanak
+C0998371||Yusufçuk
+C0038170||"Staphylococcus"
+C0003467|C4020884|C0679771|C1842981||kaygı
+C0340464|C0237314|C0003811||kalp ritminin yükseldiği
+C1228323||sekiz bacaklı
+C0021368||inflamatuar
+C0032064||Bubonik veba
+C0037303||Kafatasları
+C0041215||Trypanosoma
+C0080194||kas incinmelerini
+C1018544||Satsuma
+C0004153||aterojenik
+C1269537||beyninin
+C1211086||Xysticus
+C0021368||enflamatuvar
+C0085999||"Pan" (şempanze)
+C0497156||lenf bezlerinin şişerek büyümesi
+C0042979||Röntgencilik
+C0004106||Astigmatizma
+C0949799||defne yaprağı
+C0009195||kohleayla
+C0008769||Gölü'ne
+C1020555||Karaçam
+C0040238||Kalay
+C0027132||yediuyur
+C0016204||osurur
+C0001254||Actinomyces
+C0023884||karaciğerin bir
+C0029456|C0029458||osteopeni
+C0331680||Ters Laleye
+C0012634||bitki hastalığı
+C0021359||kısırlığa
+C0008354||kolera mikrobudur
+C1148469||Civanperçemi
+C0998352||Araneomorphae
+C0011133||geyiğe
+C0456909|C0271215|C0155020||görme engelli
+C1903218||uzunbacak
+C0031354|C1278903||Farinks
+C0036581||Selenyum
+C0043047||su sporları
+C0013595||Egzama
+C0008677|C0006277|C0149514||rahatsız
+C0239946|C0023890||karaciğer sirozuna
+C0038185||deniz yıldızları
+C0524756||Gerçek balinanın
+C1001098||Keçiboynuzu
+C0456909|C0271215|C0155020||körlüğe
+C0037913||Araneae
+C0684063||Çok hücrelilerin
+C0018026||altın kaplama
+C0035366||antiretroviral
+C0002343||Alternaria'daki
+C0330340||kaktüsgiller (Cactaceae)
+C0699744||Otit
+C1047211||Siyanobakteri
+C0023570||L-DOPA'dır
+C0033497||propanolol
+C0996771||Turp
+C1032343||Cecropia
+C0010260||yengece
+C1003254||boynuzlu baykuş
+C0003232||tedavisi
+C2662645||Büyükbakır
+C1031097||Eurytomidae
+C0220690||Makrosefali
+C0026391||mollüksler
+C0039663||THC'ye
+C0008152||Chlamydiaceae
+C0004586||Bacillaceae
+C0162429||düzensiz ve kötü beslenme
+C0011849||Şeker hastası
+C2586211|C0040053||trombus
+C1003137||kitapbitleri
+C0999085||Lizard Yarımadası'nı
+C0325184||Gergedan
+C0998765||Çeneli balıklarda
+C0999244||Doğan
+C1465942||Anelosimus
+C0006826||malignensinin
+C0446254||Cucurbitaceae (kabakgiller)
+C0086418||Anatomik olarak modern insanlarda
+C0001175||HIV/AIDS
+C0682477||Palmiye Ağacı
+C0004144||Atelektazi
+C0013739||Eimeria
+C0010345||Crocodylus
+C0013604||şişmeye
+C0330186||çam ağaçları
+C0013144||uyuyabilecekleri
+C2732512||vombatlardır
+C0032212||Ornitorenk
+C0021368||inflamasyonda
+C0949956||Salepgiller
+C1210799||Dodo
+C0325460||beyaz leylek
+C0027442||nazofarengeal bölgeye
+C0013138||Drosophila melanogaster
+C1510512||Kayın
+C1269537||İnsan beyninde
+C0037913||örümcek türleri
+C0030578||paronişi
+C0011133||kırmızı geyik
+C0325089||kedigil
+C0206321||kobralar
+C1042486||Filistatidae
+C0017102||Sarımsak
+C0037925||omuriliğin
+C1670686||Euarchontoglires
+C0079541||Holoprosencephaly
+C2939420||metastatik
+C1087189||Tiphiidae
+C0325034||sansarlara
+C0086418||İnsan
+C0023299||maki
+C1022010||çıyan
+C0334044||displastik
+C1007945||Mammutidae
+C0004900||Kunduz Havayoluyla
+C0003483||Aort
+C0999618||GNU projesini
+C0817096||torasik
+C0999579||Elephas
+C0025202||göz melanomu
+C0035950||geviş getiren
+C0023270||Leishmania spp.
+C0023380||enerji azlığı
+C0682477||palmiye ağaçlarını içerir
+C0020255||Hidrosefalus
+C0330656||acıbadem
+C1099456||Escitalopram
+C0001138||Acinetobacter
+C0014833||Escherichia
+C0973461||primer progresif afazi
+C0032713||musurları
+C0331302||Nepeta
+C0325386||Pelikansılar
+C0036690|C0243026||septik şoka
+C0006675||Kalsiyum
+C3489627|C0038506|C0454542|C0038131|C0751528|C0751529|C0751527||kekemeliği
+C0021368||yangı
+C0007939||Sifilis
+C0997210||Ananasgiller
+C1035029||Enoplognatha
+C0043047||HO
+C0012403||DMSO
+C1677114||Geophaginae
+C0011849||şeker komasından
+C0330312||HUŞ
+C0026912||Mycobacteria
+C0326914||ispinoz
+C0599067||Hurma
+C1018261|C1033577||Agathis
+C0037382||zehirli yılan
+C0087114||buğday taneleri
+C0011816||Dekstrometorfan
+C1262902||soya ürünleri
+C0004057||asetilsalisilik asit
+C0087114||Buğday
+C1269537||Beyin
+C1042492||Ozyptila
+C0032708|C0235387||akut intermitent porfiria
+C0002625|C0002622||hafıza bozuklukları
+C1014924||Katırtırnağı
+C0014563||epinefrin
+C0017168||gastroözofajiyel reflü
+C0024467||Magnezyum
+C0037925||omuriğinin
+C0524539||Kızılgöz
+C0043395||sarı humma bulunur
+C1269537||beyninden
+C0006309||brusello
+C2586211|C0040053||trombotik
+C0598798|C0024299||Lenfoma
+C0325112||Jaguar
+C0325498||çıkrıkcın
+C0598342||yılan yıldızları
+C1081400||Arauculara
+C0003483||Aort arkı
+C0330463|C2673181||Menekşe
+C0022023||Anyon
+C0560263||Molarite
+C1022010||kırkayak
+C0031437||fenotipik karakterinin
+C0017861||Gliserin
+C0041471|C0041473|C0343758|C0041472||tifüs salgını
+C0023418||öldü
+C0020045||Karasineğin
+C0036341||şizofren
+C0039614||Tetanos
+C1002377||sahil sekoyası
+C0010834||Sitoplazma
+C0013039||dopig
+C0302358|C0302361|C0013371|C0302359|C0302360||Shigella
+C0999215||Sağangiller
+C1014405||Edelweiss
+C0997186||Siyez buğdayı
+C0006836||Candida
+C0085317||Coccidia
+C1891505||Philodromus
+C0018398||Lepistes
+C1136055||Ceiba pentandra
+C0993564||Çita
+C0006826||malignantlarının
+C0595916||nefrotoksik
+C0014964||Etambutol
+C0032285||Zatürre
+C1094379||Dikkuyruk
+C0011133||Geyik
+C0021368||iltihabı
+C0010148||Corynebacterium
+C1270179||Feliformia
+C0016365||Fluoksetin
+C0949799||DEFNE
+C0024660||memeli
+C0325528||Kuğu
+C1300337||Talpa
+C0008439||Kondrit
+C1269537||beyin zarın
+C0682501||Batrak
+C0042963||Kusturucu
+C0040630||trans
+C0026131||Süt
+C0785105||Bilirübin
+C0040845||all-trans retinoik asitten
+C0600226||Acrididae
+C1221367|C1622413||engerek yılanı
+C0330186||Çam
+C0039267||Talk
+C0027996||nikotinik asit veya "niasin"
+C0005595||Kuş
+C1891555||Araniella
+C0949848||Pinaceae
+C0006826||kanser hücreleri
+C0326115||Apodiformes
+C1465960||Episinus
+C0040615||Antipsikotik
+C0330195||Göknar
+C0524519||Sırtlan
+C0033141|C0036529|C0878544||hipertrofik kardiyomyopati
+C0028013||Nikel
+C0325331||Sphenisciformes
+C2586211|C0040053||kan pıhtısı
+C0376238||Çiğdem
+C1041155||Protomyctophum
+C0017102||sarımsağa
+C0032821||potas
+C0331570||Sorgum
+C0022346||renkte sararma
+C0682478||Poales
+C0015672||Yorgunluk
+C0020490||hipermetrop
+C0330260||Helleborus
+C0024202||lenf damarları
+C1021067||Mesothelae
+C0039538||Teratom
+C1145678||Patates
+C0023756||Asya aslanı
+C0013595||ekzama
+C0027092||Miyopi
+C0035853||Gül
+C0003842||arterlerden
+C0057558||Cerazette
+C0013443||orta kulağın
+C0330653||Elma
+C0021246||İndometazin
+C2828255||üst dörttebirlik
+C0007896||Cetacea
+C0003818||As
+C0950005||Cistus
+C0035804||kemirgen
+C0020696||kırsıçanı
+C0327459||Taipan
+C0003467|C4020884|C0679771|C1842981||endişelerini
+C0018210||Poaceae
+C0399352||az
+C0238402||Pycnodysostosis
+C0323747||Steatoda
+C0017086||gangren
+C1269537||beynine
+C0325037||Kakım
+C0019112||Basur
+C1910436||Tyrannosaurus
+C0028351||noradrenerjik
+C0043047||sıvı su
+C2828255||alt dörttebirlik
+C0206639|C0029463||kemik kanserinden
+C0002123||Alligator
+C0020517||Alerji
+C0657912||Pregabalin
+C0271708|C0020615||kandaki
+C0023418||akut lösemi
+C0085636|C4020887||ışığa karşı hassasiyet
+C0785105||bilirubine
+C0011849||Diabetl
+C0264956||lezyonun
+C0021368||pro-enflamatuar
+C0330325||fındığı
+C0700374||palatal
+C0349231||phobia
+C0325089||kedi
+C0751466||fonofobi
+C0325026||Rakungiller
+C0003455||Karınca
+C0042449||Toplardamar
+C0026391||yumuşakça
+C0021368||inflamatuvar mediyatörlerin
+C1864156|C0009763||konjunktivit
+C0013443||çekiç kemiği
+C0013336||Cüceliğin
+C0949569||Atkuyruğu
+C0030049||Oxycodone
+C0036451||Akrep
+C0018866||kirpiye
+C0001811||yaşlı
+C1052122||Tigrisoma
+C3898830||hiperseksüel
+C0598798|C0024299||Hodgkin dışı lenfoma
+C1018880||Astropectinidae
+C0002871|C0162119||Kansızlık
+C0020625||Hiponatremi
+C0036488||Denizkestanesi
+C0016327||Florür
+C0996757||Begonia
+C0917801|C0393770|C3279991||uykusuzluğun
+CL448688|C0014609||epitelyal dokuda
+C1013340||Anodonti:
+C0596973||Monomer
+C0007012||CO2
+C0023418||kan kanseri
+C0751985||proteobakteri
+C0013443||Kulak çeperinde
+C1025429||Hollyhocks
+C1202833||üveyiğe
+C0242202||Serebrum
+C0456909|C0271215|C0155020||gözleri görmüyordu
+C0005023||Benzaldehit
+C0035804||kemirgenlerdir
+C0011998||Diastema
+C0326066||Strigidae
+C0302583||demir cevheri
+C1006309||ayva çekirdeği
+C0013404||değiştirilmiş MRC dispne skalası
+C0998997||Sirenidae
+C1049234||Peripodida
+C1140674||Çavdar
+C2732512||vombat
+C1122969||siyah zeytin
+C0013604||serebral ödem
+C0039663||THC
+C1300203||Homo türünün
+C0024706||mangan
+C0023263||Fabaceae
+C0043481||Çinko
+C0022573||Keratokonjunktivit
+C3714497|C0004096||astımdan
+C0008377||yüksek kolesterol
+C0007450||ev kedisine
+C0330318||kızılağaç (alnus rubra)
+C0324991||nutria
+C0040630||Transseksüelizm
+C0221228|C0333128||Komedon
+C0920312||kordalı
+C0998198||Incirrata
+C0600625||Ericales
+C0026391||Mollusca
+C0684063||Ökaryot
+C1265545||sığır
+C0700374||Damak
+C1061416||Agromyzidae
+C0446242||Siklamen
+C0014346||enterobakteri
+C1479699||Çiğdeci
+C0025990|C1857130|C0240295||Üstçene hipoplazisi
+C0995454||Sporohalobacter
+C0876920||Medyan
+C0037925||omuriliğe
+C0524874||Ebegümecigiller
+C0206315||Bothrops
+C0325089||yırtıcı kedilerdir
+C0003232||antibakteriyel maddeye
+C0040774||travestiler
+C0085632||yatırımcılar
+C0997245||Liliales
+C0751401|C0155338|C0029089||Oftalmoparezi
+C0040845||Tretinoin
+C0043047||içme suyu
+C0973446||Tamarindus indica
+C0014544|C0236018||epileptiform ataklar,
+C1495618||Ispıt
+C1024812||ıhlamur ağaçları
+C0018552||hamartomatöz oluşum
+C0325424||yılanboyun
+C0002645||Amoksisilin
+C0785105||safra pigmentleri
+C0041296||tüberküloza
+C0013443||kulağının
+C0330534||Çitlembik
+C1122969||zeytin ağaçlarını
+C0446269||Leylak
+C0032821||potasyumun
+C0325235||büyükbaş
+C0032285||Pnömokok aşıları
+C1095821||narval "(Monodon monoceros)"
+C0038410||Pnömokok
+C0017168||Gastroözofajiyel reflü
+C0996619||Podocarpaceae
+C0025643||Metisilin
+C0004611||Bacteria
+C0949120||Avokado
+C0399352||Hipodonti
+C0023516||Lökositlerin
+C0034443||Quokka
+C1017800||korsanmartı
+C0325089||kedileri
+C0023516||beyaz kan hücreleri
+C2586211|C0040053||Trombus
+C0001314||subakut
+C0032713||liman yunusu
+C1082021||İspinoz
+C0007012||kar­bondioksit
+C0950033||Vaccinium (Cyanococcus)
+C2713498|C0003062||hayvanlar âlemi
+C1495618||Tomara
+C0331496||Yulaf
+C0021359||Çocuk sahibi olamayan
+C0041296||tüberkülozla
+C0003617||Apandis
+C0006826||Kanser
+C0326066||Baykuşgiller
+C2219717|C0002453||Amenore
+C0002401||Amanita
+C0013595||ekzema
+C0022346||İkter
+C0325297||ahu
+C0999570||şişe burunlu yunus
+C2939420||metastaz kanser
+C0036690|C0243026||Sepsis
+C0524554||Delphinidae
+C0162429||Malnütrisyon
+C0326475||Parus
+C0010199||Coturnix
+C0013443||oval pencereye
+C1081112||Asteriidae
+C0009221||antikodon
+C0331221||Solanum
+C0006840||maya enfeksiyonundan
+C1224707||Nigrita
+C0323752||Scytodidae
+C1470375||Perdicula
+CL448688|C0014609||Skuamöz
+C0453397||çekilmemiş karabiber
+C1054037|C1947928||Chlorella
+C0024547||malatyon
+C0331680||Lâℓe
+C0323769||Thomisidae
+C0023516||lökosit
+C0012634||bozukluktur
+C0949581||Esociformes
+C0013604||Ödem
+C3536965||(SO)
+C0007018||karbon monoksit
+C0002871|C0162119||hemolitik anemi
+C0024660||memelisidir
+C0008730||Kilüs
+C0010260||yengec
+C0003483||aort yırtılması
+C0325046||Samur
+C0027497||mide bulantısı
+C1001336||Achatocarpaceae
+C0006836||candida infeksiyonu
+C0037877||Gelengi
+C0995181||söğüt ağacı
+C0006824||Serinus
+C0018210||Çimen
+C0018026||Altın
+C0007384||Katapleksi
+C0330663||armudu
+C0025990|C1857130|C0240295||Mikrognati:
+C0021359||erkek kısırlığı
+C0039231|C4020868||hızlı kalp atışı
+C0023263||baklagil
+C0007018||CO'e
+C0014544|C0236018||epileptik ataklar
+C0999629||Tavşan
+C0039231|C4020868||kalp hızında artış
+C0024660||Memeliler
+C0597101||azotlu bazlardan
+C2660526||Scytodes
+C0013604||odem
+C0002726||Sekonder amiloidozis
+C0018081||Gonore
+CL378222||anjiografi
+C0014544|C0236018||epileptik
+C2624289|C2624297|C0326863||karatavuğun
+C1212695||Boyunburan
+C1062344||Prunus mahlebi
+C1510478||Papatya
+C0035410||Rabdomiyoliz
+C0453135||Papaya
+C0002186||Alpaka
+C0446221||Liliaceae
+C0242616||Atgiller
+C0017547||hipofizer gigantizm
+C0026391||Kabuklu yumuşakçalardan
+C0037303||kafataslarında
+C0011849||diyabetes mellitus
+C0324814||Mandril
+C0326475||Baştankaragiller
+C0325034||sansargildir
+C1262902||Soya fasulyesinin
+C0012634||tıbbi bir durumdur
+C1011395||Nesticidae
+C0325297||Ceylan
+C0001041||kolinerjik
+C0326711||Bayağı sığırcık
+C1864156|C0009763||konjunktivit,
+C1087129||Andigena
+C0038984||Ter
+C1527405|C0032461||Polisitemi
+C1006315||döngel
+C0549207||vertebra
+C1004027||Ahududu
+C0041942||Üre
+C0002625|C0002622||amnezi olan
+C0021400||İnfluenza
+C0008161||kloral
+C0016228||pire
+C0008769||Cichlidae
+C0999254||Gyps
+C1300203||Homo
+C0014479||Efedrin
+C0524954||Lauraceae
+C0021400||influenza
+C2718310||çoğalma hücre
+C0949681||Dinozor Müzesi
+C0004034||aspergillosis
+C0019045||Hemoglobinopati
+C1052765||Çobanaldatan
+C0524874||Malvaceae
+C0026838||spastik
+C0950075||Fagaceae
+C0031354|C1278903||yutağa
+C0998347||Mygalomorphae
+C2758248||Rhodopechys
+C0349231||patolojik korkusudur
+C0035950||geviş getiren hayvanlar
+C0999699||Kobay
+C0221085||Taenia Solium
+C1080850||Casuarina
+C0042449||damarlarında
+C1004599||Leptoptilos
+C0018880||helyumu sıvılaştırmayı
+C0330386||Rumex longifolius
+C0524851|C1285162||nörodejeneratif hastalıklar
+C1271357||Taphozous
+C0599456||Sphingidae
+C0700374||damağın
+C0039005||domuzlar
+C0202474||striknindi
+C0011253||sanrıların
+C0017890||Gly
+C0446307||MAYDANOZ
+C1093081||Vallisneria
+C0004611||Bakteri
+C0083381||Meloksikam
+C0043047||H2O
+C0331312||Yıldızpatı
+C0041466||tifo ateşi
+C0340464|C0237314|C0003811||anormal kalp ritimlerine
+C0026196||Minoksidil
+C0524871||Ketengiller
+C0020461||yüksek potasyum seviyeleri
+C0009222||Knidliler
+C0039729||thalamus
+C0331672||Narcissus
+C0040592|C0153107|C0153108||Trahom
+C0005388||kara safra
+C1634335||Afrotheria
+C0012000||Diyastol
+C0021368||inflamasyon
+C0003615|C0085693||Apandisit
+C0013369||diyare
+C0013604||şiştiğinde
+C0549207||Omur
+C1004027||ahududu aromalı
+C0325277||Oriks
+C0016204||gaz çıkarma
+C1049848||Goniasteridae
+C1080863||Çilek
+C0040630||transseksüel
+C1456145|C1456144|C4280623|C0011334||Diş çürükleri
+C0326711||Sığırcığı
+C0007012||karbondioksidi
+C0017890||Glisin
+C0021368||iltihaplanma
+C0015920||çaşır
+C0728899||zehirlendi
+C0041296||tüberkülozu
+C0007012||karbondiokside
+C0003862||eklem ağrıları
+C1057839||Philodryas
+C1004735||diatomlar
+C0024892||Chytridiomycota
+C0010153|C0012546||Difteri
+C0002607||NH
+C0024530||Zehirli sıtma
+C1510512||Fagus
+C1002484||Dugonggiller
+C0325205||Vikunya
+C0023884||karaciğer yetmezliği
+C0037925||Omuriliğe
+C0325435||Leyleksiler
+C0446243||Sütleğengiller
+C1145678||kartol pancarı(patates yahnisi)
+C1078447||Melaleuca
+C0041393||planarya
+C0947651||Ag
+C1083907||Pseudomyrmex
+C0001002||Aseton
+C1081185||pembe flamingolar
+C0006030||B
+C0014544|C0236018||nöbetler
+C0004352||otistik
+C0003732||arkelerde
+C0008845||Sitalopram
+C0003289||hızlı etkili bir antidepresan
+C0328436|C1040056||mezgit balığı
+C0022938||laktobasiller
+C0028351||norepinefrinin
+C0004611||antibakteriyal
+C0022077||İris
+C0751985||proteobakteridir
+C0330345||Portulaca
+C1265533||domuz yavrusunun
+C1706526||Şeritler
+C1265524||dağ aslanları
+C0043250||Yara
+C0012634||hastalığına
+C1001492||mantidflies
+C0562690||yırtıcı hayvan cinsidir
+C1018995||Malurus
+C0949850||ladin ormanlarında
+C0013336||cüce
+C1080863||"Fragaria"
+C1278907|C0006255||Bronş
+C0035950||gevişgetiren
+C0946614||Safran
+C0041466||Tifo
+C0330312||Huş
+C0036945||Ovis
+C0012578||sineğinde
+C0022734||kleptoman
+C0949569||atkuyrukları
+C0331680||Tulipa
+C0040774||Travestilik
+C0330339||Akşamsefası
+C0041296||tuberkulosis
+C0002658||Amfetamin
+C1510487||yeşil fasulye
+C0001916|C0333913||albino
+C0810089||İyatrojenik
+C0021925||Entübasyon
+CL502480||Stereotipi
+C0025289||Meninjit
+C0011849||diyabetik bir hastaydı
+C0008354||Kolera
+C0327019||Pelobatidae
+C0326198||Boynuzgaga
+C0453135||Carica papaya
+C0028754||şişmanlığın
+C0206301||engerek
+C0006622||kakao bitkisinde
+C0567415||atom teorisinin
+C0032699||süngerden
+C0041948||Üremi
+C0029799|C0032231||Plörezi
+C0323775||Oxyopidae
+C0331680||Lale
+C0020740||İbuprofen
+C0027401||narsisist
+C0036341||şizofreni'dir
+C0220697|C0152427||Polidaktili
+C0032273||antrakozis
+C0949681||Dinozor
+C1078708||Sphingobium
+C2939420||metastatiktir
+C0022938||Laktik asit bakterileri
+C0324023||gastropod
+C1014795||melocan dikeni
+C0524554||yunuslarda
+C0013138||meyve sineklerine
+C0325125||kulaksız fok
+C0024467||magnezyum (Mg2+)
+C0003459||yeşil kurbağa
+C2277380||Menengiç
+C0013671||yılan balığı
+C0023932||Istakoz
+C0042058||Semender
+C1004696||Channa
+C1122969||Zeytin
+C1082101||Mamut
+C0037303||insanın kafatası
+C1456784||paranoik
+C0004352||otistik spektrum bozukluklarının
+C1474723||Strepera
+C0325460||Leylek
+C1009722||Ranunculales
+C0001963||Sanayi alkolü
+C0013369||dışkı kanlı ise
+C0024660||memeli canlıların
+C0848558||Hipospadias
+C1211047||Ortygospiza
+C0040630||transseksüelliğe
+C0999570||Tursiops truncatus
+C0995181||Salix
+C0023756||Aslan
+C0030095||Oksitosin
+C1001229||Filipendula
+C0997063||makademya fıstığı
+C0012091||Diklofenak
+C0039082||sendromdur,
+C0026402||molibden cevheri
+C1093020||Asterias
+C0997186||einkorn
+C1004207||Amniyot
+C0014257||Endotel
+C2722820||Bikarbonat
+C2718310||GAMET
+C0326067||Strigiformes
+C0034494||kuduz hastalığı
+C0021368||Enflamasyon
+C0007939||Frengi
+C0021585||Insecta
+C0020045||karasineğin
+C0020663||Hipotalamus
+C0162429||Yetersiz beslenen
+C0020550||tirotoksikoz
+C1094016||araptavşanlarında
+C0013395||dispeptik
+C0009443||Nezle
+C0596019||Klorür
+C1260943||Yeşilbaş Ördek
+C0065331||Likopen
+C0023263||baklagiller (Fabaceae)
+C0024547||Malathion
+C0996745||Malpighiales
+C0011849||Diabetes mellitus
+C0013671||Anguilliformes
+C2732512||vombatlar
+C0023570||L-DOPA
+C0002430||Aksolotl
+C0011185||Dehidroepiandrosteron
+C0036451||akrebin
+C1495618||kaldırık
+C0998661||Pisaster
+C1270262||köpeğimsi
+C1093265||Plectreuridae
