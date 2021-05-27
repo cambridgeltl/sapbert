@@ -144,3 +144,6 @@ dmypy.json
 
 # tmp
 */tmp
+
+evaluation/xl_bel/umls_onto_all_lang_cased_wikimed_only_399931.txt  
+training_data/general_domain_parallel_data/*

@@ -1,0 +1,19 @@
+CUDA_VISIBLE_DEVICES=$1 python3 train.py \
+	--model_dir "cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" \
+	--train_dir ../training_data/general_domain_parallel_data/en_zh_muse_pairs.txt \
+	--output_dir tmp/xlmr_base_sap_xling_tuned \
+	--use_cuda \
+	--epoch 5 \
+	--train_batch_size 256 \
+	--learning_rate 2e-5 \
+	--max_length 25 \
+	--checkpoint_step 999999 \
+	--parallel \
+	--amp \
+	--pairwise \
+	--random_seed 33 \
+	--loss ms_loss \
+	--use_miner \
+	--type_of_triplets "all" \
+	--miner_margin 0.2 \
+	--agg_mode "cls"

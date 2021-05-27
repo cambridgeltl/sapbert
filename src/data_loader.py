@@ -129,7 +129,12 @@ class QueryDataset_custom(Dataset):
 
         for line in lines:
             line = line.rstrip("\n")
-            _id, mention = line.split("||")
+            if len(line.split("||")) == 2:
+                _id, mention = line.split("||")
+            elif len(line.split("||")) == 3: # in case using data with contexts
+                _id, mention, context = line.split("||")
+            else:
+                raise NotImplementedError()
              
             data.append((mention, _id))
 

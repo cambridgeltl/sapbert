@@ -21,16 +21,15 @@ Extract training data from UMLS as insrtructed in `training_data/generate_pretra
 
 Run:
 ```console
-cd umls_pretraining
+cd train/
 ./pretrain.sh 0,1 
 ```
 where `0,1` specifies the GPU devices. 
 
-For cross-lingual Sap-tuning with general domain parallel data (muse, wiki titles, or both), the data can be found in `training_data/general_domain_parallel_data/`. Scripts are in `xl_bel/`. 
+For cross-lingual SAP-tuning with general domain parallel data (muse, wiki titles, or both), the data can be found in `training_data/general_domain_parallel_data/`. An example script: `train/xling_train.sh`. 
 
 ## Evaluate SapBERT
-For monolingual evaluation (as in [\[Liu et al., NAACL 2021\]](https://www.aclweb.org/anthology/2021.naacl-main.334.pdf)), please view `evaluation/README.md` for details.
-For cross-lingual evaluation (XL-BEL; as in [\[Liu et al., ACL 2021\]](http://fangyuliu.me/media/pdfs/xlbel_acl2021_preprint.pdf)), please view `xl_bel/README.md` for details.
+For evaluation (both monlingual and corss-lingual), please view `evaluation/README.md` for details. `evaluation/xl_bel/` contains the XL-BEL benchmark proposed in [\[Liu et al., ACL 2021\]](http://fangyuliu.me/media/pdfs/xlbel_acl2021_preprint.pdf).
 
 ## Citations
 SapBERT: 
