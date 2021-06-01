@@ -1,6 +1,6 @@
 # SapBERT: Self-alignment pretraining for BERT
 
-This repo holds code, data, and pretrained weights for **(1)** the **SapBERT** model presented in our NAACL 2021 paper: [*Self-Alignment Pretraining for Biomedical Entity Representations*](https://www.aclweb.org/anthology/2021.naacl-main.334.pdf); **(2)** the **cross-lingual SapBERT** and a cross-lingual biomedical entity linking benchmark (**XL-BEL**) proposed in our ACL 2021 paper: [*Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking*](http://fangyuliu.me/media/pdfs/xlbel_acl2021_preprint.pdf).
+This repo holds code, data, and pretrained weights for **(1)** the **SapBERT** model presented in our NAACL 2021 paper: [*Self-Alignment Pretraining for Biomedical Entity Representations*](https://www.aclweb.org/anthology/2021.naacl-main.334.pdf); **(2)** the **cross-lingual SapBERT** and a cross-lingual biomedical entity linking benchmark (**XL-BEL**) proposed in our ACL 2021 paper: [*Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking*](https://arxiv.org/pdf/2105.14398.pdf).
 
 ![front-page-graph](/misc/sapbert_front_graphs_v6.png?raw=true)
 
@@ -10,7 +10,7 @@ This repo holds code, data, and pretrained weights for **(1)** the **SapBERT** m
 Standard SapBERT as described in [\[Liu et al., NAACL 2021\]](https://www.aclweb.org/anthology/2021.naacl-main.334.pdf). Trained with UMLS 2020AA (English only), using `microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext` as the base model. For [\[SapBERT\]](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext), use `[CLS]` (before pooler) as the representation of the input; for [\[SapBERT-mean-token\]](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext-mean-token), use mean-pooling across all tokens.
 
 ### Cross-Lingual Models: [\[SapBERT-XLMR\]](https://huggingface.co/cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR) and [\[SapBERT-XLMR-large\]](https://huggingface.co/cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR-large)
-Cross-lingual SapBERT as described in [\[Liu et al., ACL 2021\]](http://fangyuliu.me/media/pdfs/xlbel_acl2021_preprint.pdf). Trained with UMLS 2020AB (all languages), using `xlm-roberta-base`/`xlm-roberta-large` as the base model. Use `[CLS]` (before pooler) as the representation of the input.
+Cross-lingual SapBERT as described in [\[Liu et al., ACL 2021\]](https://arxiv.org/pdf/2105.14398.pdf). Trained with UMLS 2020AB (all languages), using `xlm-roberta-base`/`xlm-roberta-large` as the base model. Use `[CLS]` (before pooler) as the representation of the input.
 
 ## Environment
 The code is tested with python 3.8, torch 1.7.0 and huggingface transformers 4.4.2. Please view `requirements.txt` for more details.
@@ -28,7 +28,7 @@ where `0,1` specifies the GPU devices.
 For cross-lingual SAP-tuning with general domain parallel data (muse, wiki titles, or both), the data can be found in `training_data/general_domain_parallel_data/`. An example script: `train/xling_train.sh`. 
 
 ## Evaluate SapBERT
-For evaluation (both monlingual and corss-lingual), please view `evaluation/README.md` for details. `evaluation/xl_bel/` contains the XL-BEL benchmark proposed in [\[Liu et al., ACL 2021\]](http://fangyuliu.me/media/pdfs/xlbel_acl2021_preprint.pdf).
+For evaluation (both monlingual and corss-lingual), please view `evaluation/README.md` for details. `evaluation/xl_bel/` contains the XL-BEL benchmark proposed in [\[Liu et al., ACL 2021\]](https://arxiv.org/pdf/2105.14398.pdf).
 
 ## Citations
 SapBERT: 
