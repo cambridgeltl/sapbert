@@ -1,11 +1,11 @@
 # SapBERT: Self-alignment pretraining for BERT
 
+**\[news\]** SapBERT is integrated into Nvidia's deep learning libray NeMo as its [entity linking module](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/entity_linking.html). You can play with it in this [google colab](https://colab.research.google.com/github/NVIDIA/NeMo/blob/v1.0.2/tutorials/nlp/Entity_Linking_Medical.ipynb).
+
 This repo holds code, data, and pretrained weights for **(1)** the **SapBERT** model presented in our NAACL 2021 paper: [*Self-Alignment Pretraining for Biomedical Entity Representations*](https://www.aclweb.org/anthology/2021.naacl-main.334.pdf); **(2)** the **cross-lingual SapBERT** and a cross-lingual biomedical entity linking benchmark (**XL-BEL**) proposed in our ACL 2021 paper: [*Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking*](https://arxiv.org/pdf/2105.14398.pdf).
 
 ![front-page-graph](/misc/sapbert_front_graphs_v6.png?raw=true)
 
-
-\[**[news]**\] SapBERT is integrated into Nvidia's deep learning libray NeMo as its [entity linking module](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/entity_linking.html). You can play with it in this [google colab](https://colab.research.google.com/github/NVIDIA/NeMo/blob/v1.0.2/tutorials/nlp/Entity_Linking_Medical.ipynb).
 
 ## Huggingface Models
 
