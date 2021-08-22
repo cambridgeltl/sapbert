@@ -4,6 +4,9 @@ This repo holds code, data, and pretrained weights for **(1)** the **SapBERT** m
 
 ![front-page-graph](/misc/sapbert_front_graphs_v6.png?raw=true)
 
+
+\[**[news]**\] SapBERT is integrated into Nvidia's deep learning libray NeMo as its [entity linking module](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/entity_linking.html). You can play with it in this [google colab](https://colab.research.google.com/github/NVIDIA/NeMo/blob/v1.0.2/tutorials/nlp/Entity_Linking_Medical.ipynb).
+
 ## Huggingface Models
 
 ### English Models: [\[SapBERT\]](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext) and [\[SapBERT-mean-token\]](https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext-mean-token)
