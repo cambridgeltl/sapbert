@@ -1,6 +1,6 @@
 # SapBERT: Self-alignment pretraining for BERT
 
-**\[news | 22 Aug 2021\]** SapBERT is integrated into Nvidia's deep learning libray NeMo as its [entity linking module](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/entity_linking.html) (thank you Nvidia!). You can play with it in this [google colab](https://colab.research.google.com/github/NVIDIA/NeMo/blob/v1.0.2/tutorials/nlp/Entity_Linking_Medical.ipynb).
+**\[news | 22 Aug 2021\]** SapBERT is integrated into NVIDIA's deep learning toolkit NeMo as its [entity linking module](https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/main/nlp/entity_linking.html) (thank you NVIDIA!). You can play with it in this [google colab](https://colab.research.google.com/github/NVIDIA/NeMo/blob/v1.0.2/tutorials/nlp/Entity_Linking_Medical.ipynb).
 
 --------
 
