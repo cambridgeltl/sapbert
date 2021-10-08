@@ -18,7 +18,7 @@ import sys
 sys.path.append("../") 
 
 import wandb
-wandb.init(project="entity-linking-21")
+wandb.init(project="sapbert")
 
 from src.data_loader import (
     DictionaryDataset,
@@ -40,7 +40,7 @@ def parse_args():
     """
     Parse input arguments
     """
-    parser = argparse.ArgumentParser(description='Biosyn train')
+    parser = argparse.ArgumentParser(description='sapbert train')
 
     # Required
     parser.add_argument('--model_dir', 
