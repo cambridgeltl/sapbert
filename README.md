@@ -26,9 +26,9 @@ The code is tested with python 3.8, torch 1.7.0 and huggingface transformers 4.4
 Extract training data from UMLS as insrtructed in `training_data/generate_pretraining_data.ipynb` (we cannot directly release the training file due to licensing issues).
 
 Run:
-```console
-cd train/
-./pretrain.sh 0,1 
+```bash
+>> cd train/
+>> ./pretrain.sh 0,1 
 ```
 where `0,1` specifies the GPU devices. 
 
@@ -55,6 +55,7 @@ Cross-lingual SapBERT and XL-BEL:
 	title={Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking},
 	author={Liu, Fangyu and Vuli{\'c}, Ivan and Korhonen, Anna and Collier, Nigel},
 	booktitle={Proceedings of ACL-IJCNLP 2021},
+	pages = {565--574},
 	month = aug,
 	year={2021}
 }
