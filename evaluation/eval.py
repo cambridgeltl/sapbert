@@ -26,7 +26,7 @@ def parse_args():
     """
     Parse input arguments
     """
-    parser = argparse.ArgumentParser(description='BioSyn evaluation')
+    parser = argparse.ArgumentParser(description='sapbert evaluation')
 
     # Required
     parser.add_argument('--model_dir', required=True, help='Directory for model')
