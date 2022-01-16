@@ -32,10 +32,17 @@ Run:
 ```
 where `0,1` specifies the GPU devices. 
 
+For finetuning on your customised dataset, generate data in the format of 
+```
+concept_id || entity_name_1 || entity_name_2
+...
+```
+where `entity_name_1` and `entity_name_2` are synonym pairs (belonging to the same concept `concept_id`) sampled from a given labelled dataset. If one concept is associated with multiple entity names in the dataset, you could traverse all the pairwise combinations.
+
 For cross-lingual SAP-tuning with general domain parallel data (muse, wiki titles, or both), the data can be found in `training_data/general_domain_parallel_data/`. An example script: `train/xling_train.sh`. 
 
 ## Evaluate SapBERT
-For evaluation (both monlingual and corss-lingual), please view `evaluation/README.md` for details. `evaluation/xl_bel/` contains the XL-BEL benchmark proposed in [\[Liu et al., ACL 2021\]](https://arxiv.org/pdf/2105.14398.pdf).
+For evaluation (both monlingual and cross-lingual), please view `evaluation/README.md` for details. `evaluation/xl_bel/` contains the XL-BEL benchmark proposed in [\[Liu et al., ACL 2021\]](https://arxiv.org/pdf/2105.14398.pdf).
 
 ## Citations
 SapBERT: 
