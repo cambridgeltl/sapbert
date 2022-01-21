@@ -3,7 +3,7 @@
 ## Monolingual
 
 Scientific language datasets:
-- NCBI-diseas `./eval_scripts_ncbi_bc5cdr.sh 0` (where `0` is the device index)
+- NCBI-disease `./eval_scripts_ncbi_bc5cdr.sh 0` (where `0` is the device index)
 - BC5CDR-disease `./eval_scripts_ncbi_bc5cdr.sh 0`
 - BC5CDR-chemical `./eval_scripts_ncbi_bc5cdr.sh 0`
 - (MedMentions unavailible due to licensing issues of UMLS.)
