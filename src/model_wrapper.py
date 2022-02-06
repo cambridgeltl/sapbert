@@ -183,10 +183,13 @@ class Model_Wrapper(object):
                 for k,v in batch_tokenized_names.items(): 
                     batch_tokenized_names_cuda[k] = v.cuda()
                 
+                last_hidden_state = self.encoder(**batch_tokenized_names_cuda)[0]
                 if agg_mode == "cls":
-                    batch_dense_embeds = self.encoder(**batch_tokenized_names_cuda)[0][:,0,:] # [CLS]
-                elif agg_mode == "mean_pool":
-                    batch_dense_embeds = self.encoder(**batch_tokenized_names_cuda)[0].mean(1) # pooling
+                    batch_dense_embeds = last_hidden_state[:,0,:] # [CLS]
+                elif agg_mode == "mean_all_tok":
+                    batch_dense_embeds = last_hidden_state.mean(1) # pooling
+                elif agg_mode == "mean":
+                    batch_dense_embeds = (last_hidden_state * batch_tokenized_names_cuda['attention_mask'].unsqueeze(-1)).sum(1) / batch_tokenized_names_cuda['attention_mask'].sum(-1).unsqueeze(-1)
                 else:
                     print ("no such agg_mode:", agg_mode)
 

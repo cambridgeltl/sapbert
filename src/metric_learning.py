@@ -65,9 +65,12 @@ class Sap_Metric_Learning(nn.Module):
         if self.agg_mode=="cls":
             query_embed1 = last_hidden_state1[:,0]  # query : [batch_size, hidden]
             query_embed2 = last_hidden_state2[:,0]  # query : [batch_size, hidden]
-        elif self.agg_mode == "mean_pool":
+        elif self.agg_mode == "mean_all_tok":
             query_embed1 = last_hidden_state1.mean(1)  # query : [batch_size, hidden]
             query_embed2 = last_hidden_state2.mean(1)  # query : [batch_size, hidden]
+        elif self.agg_mode == "mean":
+            query_embed1 = (last_hidden_state1 * query_toks1['attention_mask'].unsqueeze(-1)).sum(1) / query_toks1['attention_mask'].sum(-1).unsqueeze(-1)
+            query_embed2 = (last_hidden_state2 * query_toks2['attention_mask'].unsqueeze(-1)).sum(1) / query_toks2['attention_mask'].sum(-1).unsqueeze(-1)
         else:
             raise NotImplementedError()
         query_embed = torch.cat([query_embed1, query_embed2], dim=0)
