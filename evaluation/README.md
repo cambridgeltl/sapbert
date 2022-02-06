@@ -17,7 +17,7 @@ Download datasets from [here](https://www.dropbox.com/s/s33fxxg23ev59ic/mel-test
 
 ## Cross-Lingual (XL-BEL)
 
-First-off, download the reference ontology [here](https://www.dropbox.com/s/ngzmb14xx94y3b9/umls_onto_all_lang_cased_wikimed_only_399931.txt?dl=0) and put it into `xl_bel/`. Then run `./eval_scripts_xlbel_test.sh 0`.
+To evaluate, run `./eval_scripts_xlbel_test.sh 0`. Change model path, language, etc. in the script.
 
 `xl_bel/xlbel_v0.0` contains mentions and their CUIs, without contexts (for replicating numbers in [\[Liu et al., ACL 2021\]](http://fangyuliu.me/media/pdfs/xlbel_acl2021_preprint.pdf), this is all you need). 
 
