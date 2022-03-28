@@ -84,7 +84,7 @@ def parse_args():
     parser.add_argument('--use_miner', action="store_true") 
     parser.add_argument('--miner_margin', default=0.2, type=float) 
     parser.add_argument('--type_of_triplets', default="all", type=str) 
-    parser.add_argument('--agg_mode', default="cls", type=str, help="{cls|mean_pool}") 
+    parser.add_argument('--agg_mode', default="cls", type=str, help="{cls|mean|mean_all_tok}") 
 
     args = parser.parse_args()
     return args
