@@ -2,13 +2,21 @@
 
 ## Monolingual
 
-Scientific language datasets:
+**Scientific language datasets:**
 - NCBI-disease `./eval_scripts_ncbi_bc5cdr.sh 0` (where `0` is the device index)
 - BC5CDR-disease `./eval_scripts_ncbi_bc5cdr.sh 0`
 - BC5CDR-chemical `./eval_scripts_ncbi_bc5cdr.sh 0`
-- (MedMentions unavailible due to licensing issues of UMLS.)
+- MedMentions unavailible due to licensing issues of UMLS.
+  -  To obtain MedMentions dictionary file, please download the UMLS2017AA version's `MRCONSO.RRF` file and extract the CUI-name pairs in the following format:
+```
+C0079564||htlv-ii rex protein
+C0162999||oleoylamine
+C0347197||benign mouth neoplasm
+...
+```
+In the end, there should be 3,415,665 individual CUIs and 14.8M lines. Some of the lines are duplicated. After de-duplication, there should be around 7.4M individual lines which we used as the final reference dictionary.
 
-Social-media language datasets:
+**Social-media language datasets:**
 - COMETA (stratified general) `./eval_scripts_cometa.sh 0`
 - COMETA (zeroshot general) `./eval_scripts_cometa.sh 0`
 - AskAPatient `./eval_scripts_askapatient_10cv.sh 0`
