@@ -50,7 +50,7 @@ for i in tqdm(np.arange(0, len(all_names), bs)):
         toks_cuda[k] = v.cuda()
     cls_rep = model(**toks_cuda)[0][:,0,:] # use CLS representation as the embedding
     all_embs.append(cls_rep.cpu().detach().numpy())
- 
+
 all_embs = np.concatenate(all_embs, axis=0)
 ```
 
