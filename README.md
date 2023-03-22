@@ -22,6 +22,40 @@ Cross-lingual SapBERT as described in [\[Liu et al., ACL 2021\]](https://arxiv.o
 ## Environment
 The code is tested with python 3.8, torch 1.7.0 and huggingface transformers 4.4.2. Please view `requirements.txt` for more details.
 
+## Embedding Extraction with SapBERT
+
+The following script converts a list of strings (entity names) into embeddings.
+```python
+import numpy as np
+import torch
+from tqdm.auto import tqdm
+from transformers import AutoTokenizer, AutoModel  
+
+tokenizer = AutoTokenizer.from_pretrained("cambridgeltl/SapBERT-from-PubMedBERT-fulltext")  
+model = AutoModel.from_pretrained("cambridgeltl/SapBERT-from-PubMedBERT-fulltext").cuda()
+
+# replace with your own list of entity names
+all_names = ["covid-19", "Coronavirus infection", "high fever", "Tumor of posterior wall of oropharynx"] 
+
+bs = 128 # batch size during inference
+all_embs = []
+for i in tqdm(np.arange(0, len(all_names), bs)):
+    toks = tokenizer.batch_encode_plus(all_names[i:i+bs], 
+                                       padding="max_length", 
+                                       max_length=25, 
+                                       truncation=True,
+                                       return_tensors="pt")
+    toks_cuda = {}
+    for k,v in toks.items():
+        toks_cuda[k] = v.cuda()
+    cls_rep = model(**toks_cuda)[0][:,0,:] # use CLS representation as the embedding
+    all_embs.append(cls_rep.cpu().detach().numpy())
+ 
+all_embs = np.concatenate(all_embs, axis=0)
+```
+
+Please see [inference/inference_on_snomed.ipynb](https://github.com/cambridgeltl/sapbert/blob/main/inference/inference_on_snomed.ipynb) for a more extensive inference example.
+
 ## Train SapBERT
 Extract training data from UMLS as insrtructed in `training_data/generate_pretraining_data.ipynb` (we cannot directly release the training file due to licensing issues).
 
