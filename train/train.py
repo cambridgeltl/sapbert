@@ -85,6 +85,8 @@ def parse_args():
     parser.add_argument('--miner_margin', default=0.2, type=float) 
     parser.add_argument('--type_of_triplets', default="all", type=str) 
     parser.add_argument('--agg_mode', default="cls", type=str, help="{cls|mean|mean_all_tok}") 
+    parser.add_argument('--trust_remote_code', action="store_true",
+                        help="allow for custom models defined in their own modeling files")
 
     args = parser.parse_args()
     return args
@@ -231,6 +233,7 @@ def main(args):
         path=args.model_dir,
         max_length=args.max_length,
         use_cuda=args.use_cuda,
+        trust_remote_code=args.trust_remote_code,
         #lowercase=not args.cased
     )
     
