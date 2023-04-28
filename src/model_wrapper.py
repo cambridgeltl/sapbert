@@ -44,15 +44,15 @@ class Model_Wrapper(object):
         self.tokenizer.save_pretrained(path)
         
 
-    def load_model(self, path, max_length=25, use_cuda=True, lowercase=True):
-        self.load_bert(path, max_length, use_cuda)
+    def load_model(self, path, max_length=25, use_cuda=True, lowercase=True, trust_remote_code=False):
+        self.load_bert(path, max_length, use_cuda, trust_remote_code=trust_remote_code)
         
         return self
 
-    def load_bert(self, path, max_length, use_cuda, lowercase=True):
+    def load_bert(self, path, max_length, use_cuda, lowercase=True, trust_remote_code=False):
         self.tokenizer = AutoTokenizer.from_pretrained(path, 
                 use_fast=True, do_lower_case=lowercase)
-        self.encoder = AutoModel.from_pretrained(path)
+        self.encoder = AutoModel.from_pretrained(path, trust_remote_code=trust_remote_code)
         if use_cuda:
             self.encoder = self.encoder.cuda()
 
